@@ -1,0 +1,28 @@
+{
+  "environment": "production",
+  "repo": {
+    "user": "somiibo",
+    "name": "tokautomator-website"
+  },
+  "npm-build": {
+    "timestamp": "2023-12-01T00:54:41.345Z"
+  },
+  "gh-pages-push": {
+    "timestamp": "%GHP_TIMESTAMP%"
+  },
+  "packages": {
+    "web-manager": "3.2.20"
+  },
+  "brand": {
+    "name": "Tok Automator",
+    "type": "Corporation",
+    "description": "Automate your TikTok activity with this free view bot, follow bot & comment bot. Tok Automator is a follow bot and view generator all in one. Increase TikTok followers & views for free!",
+    "logo-image": "https://cdn.itwcreativeworks.com/assets/somiibo/images/logo/somiibo-brandmark-blue-1024x1024.png",
+    "logo-image-svg": "https://cdn.itwcreativeworks.com/assets/itw-creative-works/images/logo/itw-creative-works-brandmark-black-x.svg",
+    "address-locality": "Los Angeles",
+    "address-country": "United States"
+  },
+  "admin-dashboard": {
+    "pages": []
+  }
+}
