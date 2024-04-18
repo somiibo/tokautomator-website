@@ -5,13 +5,13 @@
     "name": "tokautomator-website"
   },
   "npm-build": {
-    "timestamp": "2024-04-17T23:33:33.969Z"
+    "timestamp": "2024-04-18T05:11:06.171Z"
   },
   "gh-pages-push": {
     "timestamp": "%GHP_TIMESTAMP%"
   },
   "packages": {
-    "web-manager": "3.2.47"
+    "web-manager": "3.2.48"
   },
   "brand": {
     "name": "Tok Automator",
