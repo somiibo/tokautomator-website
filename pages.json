@@ -235,18 +235,18 @@
         "type": ""
       },
     {
-        "url": "https://tokautomator.com/admin/posts",
-        "title": "Posts",
-        "desc": "View posts",
-        "breadcrumb": "Posts",
-        "category": "",
-        "type": ""
-      },
-    {
         "url": "https://tokautomator.com/admin/users",
         "title": "Explore Users",
         "desc": "Explore users with this Firestore query tool.",
         "breadcrumb": "Explore Users",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://tokautomator.com/admin/posts",
+        "title": "Posts",
+        "desc": "View posts",
+        "breadcrumb": "Posts",
         "category": "",
         "type": ""
       },
@@ -401,6 +401,14 @@
         "breadcrumb": "Webhook",
         "category": "",
         "type": ""
+      },
+    {
+        "url": "https://tokautomator.com/blog/how-to-effectively-use-tiktok-bots-without-compromising-authenticity",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "category": "",
+        "type": "post"
       },
     {
         "url": "https://tokautomator.com/blog/the-role-of-ai-in-tiktok-marketing-a-new-era-of-engagement",
