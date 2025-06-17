@@ -115,18 +115,18 @@
         "type": ""
       },
     {
-        "url": "https://tokautomator.com/checkout/confirmation",
-        "title": "Thank you!",
-        "desc": "Thanks for checking out!",
-        "breadcrumb": "Thank you",
-        "category": "",
-        "type": ""
-      },
-    {
         "url": "https://tokautomator.com/submission/confirmation",
         "title": "Submission Confirmation",
         "desc": "Thank you for taking the time to submit your request. We will get back to you as soon a possible.",
         "breadcrumb": "Submission",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://tokautomator.com/checkout/confirmation",
+        "title": "Thank you!",
+        "desc": "Thanks for checking out!",
+        "breadcrumb": "Thank you",
         "category": "",
         "type": ""
       },
@@ -401,6 +401,14 @@
         "breadcrumb": "Webhook",
         "category": "",
         "type": ""
+      },
+    {
+        "url": "https://tokautomator.com/blog/exploring-tiktok-growth-can-automation-enhance-your-reach",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "category": "",
+        "type": "post"
       },
     {
         "url": "https://tokautomator.com/blog/why-automation-is-key-to-sustaining-tiktok-engagement",
