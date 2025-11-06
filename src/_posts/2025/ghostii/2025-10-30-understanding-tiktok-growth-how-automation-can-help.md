@@ -1,6 +1,6 @@
 ---
 ### ALL PAGES ###
-layout: app/blog/post
+layout: blueprint/blog/post
 
 ### POST ONLY ###
 post:
@@ -35,7 +35,7 @@ But let's not get ahead of ourselves. Why exactly does automation matter? For st
 
 Moreover, automation helps maintain consistency. In the fast-paced world of TikTok, regular activity is key. Tools like TokAutomator can ensure your account doesn't miss a beat, consistently interacting with your audience even during your downtime. It's like having a personal assistant who never sleeps—what's not to love?
 
-{% include /master/modules/adunits/adsense-in-article.html index="0" %}
+
 
 For those considering TikTok for business, automation is a game-changer. It not only boosts your reach but also provides valuable insights into your audience's behavior. By analyzing patterns, you can refine your content strategy and tailor your posts to better suit your target demographic. Curious about how to use TikTok for business? Check out this [guide](https://www.socialmediaexaminer.com/how-to-use-tiktok-for-business/) for more insights.
 
@@ -59,7 +59,7 @@ But what about authenticity, you ask? TokAutomator is all about striking the per
 
 In a nutshell, TokAutomator is like your TikTok fairy godmother, waving a magic wand to boost your visibility and engagement. Ready to dive into the world of automated TikTok marketing? Start exploring with [these innovative techniques](https://tokautomator.com/blog/innovative-tiktok-growth-techniques-automate-your-success) and watch your TikTok dreams come true!
 
-{% include /master/modules/adunits/adsense-in-article.html index="1" %}
+
 
 ## Maximizing Engagement: Tips and Tricks for Success
 
@@ -87,7 +87,7 @@ First off, let's talk engagement. Automation can help you maintain a consistent 
 
 Now, onto content creation. While automation can schedule posts and manage interactions, it's your creativity that fuels authentic content. Whether it's sharing behind-the-scenes bloopers or hopping on the latest dance challenge, your audience craves the real you. For insights on maximizing impact with automation, our [growth hacks blog](https://tokautomator.com/blog/tiktok-growth-hacks-using-automation-for-maximum-impact) has you covered.
 
-{% include /master/modules/adunits/adsense-in-article.html index="2" %}
+
 
 Of course, there's a fine line between leveraging automation and crossing into spammy territory. TikTok's algorithm is no fan of inauthentic engagement, so using automation responsibly is key. Learn more on using TikTok bots effectively [without compromising authenticity](https://tokautomator.com/blog/how-to-effectively-use-tiktok-bots-without-compromising-authenticity).
 
