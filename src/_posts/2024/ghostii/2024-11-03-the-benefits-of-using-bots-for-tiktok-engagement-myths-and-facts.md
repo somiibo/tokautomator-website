@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "The Benefits of Using Bots for TikTok Engagement: Myths and Facts"
-  excerpt: "Explore the myths and facts about using bots for TikTok engagement and discover how they can effectively boost your account growth."
-  author: alex
+  description: "Explore the myths and facts about using bots for TikTok engagement and discover how they can effectively boost your account growth."
+  author: christina-hill
   id: 1730710453
   tags: ["TikTok bots","engagement","growth","automation","social media"]
   categories: ["TikTok Marketing","Social Media Automation","Digital Growth Strategies"]

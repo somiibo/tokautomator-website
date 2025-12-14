@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Can TikTok Automation Revolutionize Your Marketing Strategy?"
-  excerpt: "Discover how TikTok automation can transform your marketing strategy by increasing followers, likes, and views, while evaluating its potential benefits and risks."
-  author: alex
+  description: "Discover how TikTok automation can transform your marketing strategy by increasing followers, likes, and views, while evaluating its potential benefits and risks."
+  author: alex-raeburn
   id: 1737881645
   tags: ["TikTok marketing","automation tools","Somiibo TikTok bot","social media growth","marketing strategy"]
   categories: ["Digital Marketing","Social Media","TikTok Strategy"]

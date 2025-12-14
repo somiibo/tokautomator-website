@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Tips and Tricks: Making the Most of TokAutomator for TikTok Success"
-  excerpt: "Discover how TokAutomator can revolutionize your TikTok growth strategy with key features, best practices, and real success stories."
-  author: alex
+  description: "Discover how TokAutomator can revolutionize your TikTok growth strategy with key features, best practices, and real success stories."
+  author: christina-hill
   id: 1718268848
   tags: ["TikTok growth","TokAutomator features","TikTok marketing"]
   categories: ["Social Media Marketing","TikTok Tips","Growth Strategies"]

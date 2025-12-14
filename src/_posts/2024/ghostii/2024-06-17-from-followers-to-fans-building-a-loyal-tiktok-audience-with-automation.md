@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "From Followers to Fans: Building a Loyal TikTok Audience with Automation"
-  excerpt: "Discover how to build a loyal TikTok audience by leveraging automation tools like the Somiibo TikTok Bot to increase followers, likes, and views effectively."
-  author: alex
+  description: "Discover how to build a loyal TikTok audience by leveraging automation tools like the Somiibo TikTok Bot to increase followers, likes, and views effectively."
+  author: rare-ivy
   id: 1718700848
   tags: ["TikTok growth","TikTok automation","Somiibo TikTok Bot","increase TikTok followers","TikTok marketing","engaging TikTok content"]
   categories: ["Social Media Marketing","TikTok Growth","Automation Tools"]

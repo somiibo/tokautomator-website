@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "From Zero to Viral: Effective TikTok Marketing Tactics for 2024"
-  excerpt: "Discover effective TikTok marketing tactics for 2024, including content creation tips, trend leveraging, and using automation tools like TokAutomator to grow your following."
-  author: alex
+  description: "Discover effective TikTok marketing tactics for 2024, including content creation tips, trend leveraging, and using automation tools like TokAutomator to grow your following."
+  author: rare-ivy
   id: 1717836849
   tags: ["TikTok marketing","viral TikTok","TikTok trends 2024","TikTok growth","TokAutomator"]
   categories: ["Social Media Marketing","TikTok Growth","Digital Marketing"]

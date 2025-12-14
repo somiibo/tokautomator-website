@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Can TokAutomator Help You Achieve Viral Status on TikTok?"
-  excerpt: "Discover how TokAutomator can help you achieve viral status on TikTok by automating your growth and boosting your followers, likes, and views."
-  author: alex
+  description: "Discover how TokAutomator can help you achieve viral status on TikTok by automating your growth and boosting your followers, likes, and views."
+  author: alex-raeburn
   id: 1719392049
   tags: ["TikTok growth","automate TikTok activity","increase TikTok followers","viral TikTok strategies"]
   categories: ["TikTok Marketing","Social Media Growth","Digital Marketing Tools"]

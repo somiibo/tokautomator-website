@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Understanding TikTok: The Role of Automation in Modern Marketing"
-  excerpt: "Discover how automation is transforming TikTok marketing and learn strategies to boost your account's growth with powerful tools like Somiibo."
-  author: alex
+  description: "Discover how automation is transforming TikTok marketing and learn strategies to boost your account's growth with powerful tools like Somiibo."
+  author: alex-raeburn
   id: 1729068853
   tags: ["TikTok marketing","automation tools","social media growth","Somiibo bot"]
   categories: ["Digital Marketing","Social Media","Automation Tools"]

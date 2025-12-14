@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Can Automation Transform Your TikTok Strategy?"
-  excerpt: "Discover how automating your TikTok strategy with tools like the Somiibo TikTok Bot can help you gain more followers, likes, and views efficiently."
-  author: alex
+  description: "Discover how automating your TikTok strategy with tools like the Somiibo TikTok Bot can help you gain more followers, likes, and views efficiently."
+  author: rare-ivy
   id: 1724748848
   tags: ["TikTok automation","Somiibo TikTok Bot","grow TikTok followers","TikTok marketing"]
   categories: ["TikTok Marketing","Social Media Automation","Digital Marketing"]

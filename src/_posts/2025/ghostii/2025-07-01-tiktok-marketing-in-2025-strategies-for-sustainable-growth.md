@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "TikTok Marketing in 2025: Strategies for Sustainable Growth"
-  excerpt: "Discover effective strategies for sustainable growth in TikTok marketing by 2025, focusing on emerging trends and ethical considerations for long-term success."
-  author: alex
+  description: "Discover effective strategies for sustainable growth in TikTok marketing by 2025, focusing on emerging trends and ethical considerations for long-term success."
+  author: christina-hill
   id: 1751446444
   tags: ["TikTok marketing","sustainable growth","social media strategies","content creation"]
   categories: ["Social Media Marketing","Digital Marketing","Content Strategy"]

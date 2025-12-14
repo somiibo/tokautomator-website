@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "How to Optimize Your TikTok Profile for Maximum Growth"
-  excerpt: "Learn how to optimize your TikTok profile for maximum growth with expert strategies and tools like Somiibo, and drive more followers, likes, and views."
-  author: alex
+  description: "Learn how to optimize your TikTok profile for maximum growth with expert strategies and tools like Somiibo, and drive more followers, likes, and views."
+  author: christina-hill
   id: 1751360044
   tags: ["TikTok optimization","grow TikTok followers","TikTok marketing","Somiibo TikTok bot","increase TikTok engagement"]
   categories: ["Social Media Marketing","Digital Growth","TikTok Strategy"]

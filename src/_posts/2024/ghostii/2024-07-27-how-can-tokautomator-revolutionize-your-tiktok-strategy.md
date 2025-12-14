@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "How Can TokAutomator Revolutionize Your TikTok Strategy?"
-  excerpt: "Discover how TokAutomator can revolutionize your TikTok strategy by automating your activity, leading to more followers, likes, and views."
-  author: alex
+  description: "Discover how TokAutomator can revolutionize your TikTok strategy by automating your activity, leading to more followers, likes, and views."
+  author: rare-ivy
   id: 1722156849
   tags: ["TikTok growth","automate TikTok","TokAutomator","increase TikTok followers"]
   categories: ["TikTok Marketing","Social Media Growth","Digital Marketing Tools"]

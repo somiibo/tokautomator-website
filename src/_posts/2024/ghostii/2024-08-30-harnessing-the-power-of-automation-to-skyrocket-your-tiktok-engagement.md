@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Harnessing the Power of Automation to Skyrocket Your TikTok Engagement"
-  excerpt: "Discover how leveraging automation tools like Somiibo can significantly enhance your TikTok engagement and help you grow your account effortlessly."
-  author: alex
+  description: "Discover how leveraging automation tools like Somiibo can significantly enhance your TikTok engagement and help you grow your account effortlessly."
+  author: rare-ivy
   id: 1725094449
   tags: ["TikTok automation","Somiibo TikTok Bot","increase TikTok followers","boost TikTok engagement","automated TikTok growth"]
   categories: ["TikTok Marketing","Social Media Automation","Digital Marketing"]

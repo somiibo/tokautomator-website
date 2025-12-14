@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Unlocking TikTok Growth: A Comprehensive Guide to Using Automation Tools"
-  excerpt: "Discover how to leverage automation tools like Somiibo to boost your TikTok growth with more followers, likes, and views efficiently."
-  author: alex
+  description: "Discover how to leverage automation tools like Somiibo to boost your TikTok growth with more followers, likes, and views efficiently."
+  author: christina-hill
   id: 1747040044
   tags: ["TikTok growth","automation tools","Somiibo bot","increase followers","TikTok marketing"]
   categories: ["Social Media Marketing","TikTok Growth","Automation Tools"]

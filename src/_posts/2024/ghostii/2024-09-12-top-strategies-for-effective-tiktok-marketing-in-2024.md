@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Top Strategies for Effective TikTok Marketing in 2024"
-  excerpt: "Discover top strategies for effective TikTok marketing in 2024 and learn how to leverage tools like TokAutomator to grow your account effortlessly."
-  author: alex
+  description: "Discover top strategies for effective TikTok marketing in 2024 and learn how to leverage tools like TokAutomator to grow your account effortlessly."
+  author: rare-ivy
   id: 1726217654
   tags: ["TikTok marketing","social media growth","TikTok influencers","user-generated content","TikTok analytics"]
   categories: ["Social Media Marketing","TikTok Strategies","Digital Marketing Trends"]

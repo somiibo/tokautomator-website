@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "TikTok Marketing 101: From Basics to Advanced Strategies"
-  excerpt: "Explore how to effectively use TikTok for marketing, from setting up your business account to leveraging advanced strategies and measuring success, to boost your brand's presence on this dynamic platform."
-  author: alex
+  description: "Explore how to effectively use TikTok for marketing, from setting up your business account to leveraging advanced strategies and measuring success, to boost your brand's presence on this dynamic platform."
+  author: christina-hill
   id: 1725353648
   tags: ["TikTok marketing","TikTok growth","TikTok strategies","social media marketing"]
   categories: ["Social Media Marketing","TikTok Marketing","Digital Marketing Strategies"]

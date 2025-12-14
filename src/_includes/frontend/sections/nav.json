@@ -6,33 +6,64 @@
   },
   links: [
     {
-      label: 'About',
-      href: '/about'
+      label: 'Solutions',
+      href: null,
+      dropdown: [
+        {
+          label: 'TikTok Follower Bot',
+          href: '/solutions/tiktok-follower-bot',
+        },
+        {
+          label: 'TikTok Growth Service',
+          href: '/solutions/tiktok-growth-service',
+        },
+        {
+          label: 'TikTok Engagement Bot',
+          href: '/solutions/tiktok-engagement-bot',
+        },
+        {
+          divider: true,
+        },
+        {
+          label: 'All Solutions',
+          href: '/solutions',
+        },
+      ],
     },
     {
       label: 'Pricing',
-      href: '/pricing'
+      href: '/pricing',
+    },
+    {
+      label: 'Contact',
+      href: '/contact',
     },
     {
       label: 'Explore',
       href: null,
       dropdown: [
         {
+          label: 'About',
+          href: '/about',
+        },
+        {
           label: 'Blog',
-          href: '/blog'
+          href: '/blog',
         },
         {
           label: 'Team',
-          href: '/team'
-        }
-      ]
+          href: '/team',
+        },
+      ],
     },
-    {
-      label: 'Contact',
-      href: '/contact'
-    }
   ],
   actions: [
+    {
+      label: 'Download',
+      href: 'https://somiibo.com/download',
+      color: 'success',
+      icon: 'download',
+    },
     {
       label: 'Sign Up',
       href: '/signup',
@@ -40,49 +71,39 @@
       class: '_gradient-animated _animation-wiggle',
       icon: 'user-plus',
       attributes: [
-        ['data-wm-bind', '@show !auth.user']
-      ]
+        ['data-wm-bind', '@show !auth.user'],
+      ],
     },
-    // {
-    //   label: 'Premium',
-    //   href: '/pricing',
-    //   color: 'adaptive',
-    //   icon: 'crown',
-    //   attributes: [
-    //     ['data-wm-bind', '@show auth.account.subscription.product === basic'],
-    //     ['hidden', '']
-    //   ]
-    // },
     {
       type: 'account',
       attributes: [
         ['data-wm-bind', '@show auth.user'],
-        ['hidden', '']
+        ['hidden', ''],
       ],
       dropdown: [
         {
           label: 'Account',
           href: '/account#profile',
-          icon: 'user-gear'
+          icon: 'user-gear',
         },
         {
           label: 'Dashboard',
           href: '/dashboard',
-          icon: 'gauge-high'
+          icon: 'gauge-high',
         },
         {
           divider: true,
           attributes: [
-            ['data-wm-bind', '@show auth.account.roles.admin']
-          ]
+            ['data-wm-bind', '@show auth.account.roles.admin'],
+          ],
         },
         {
           label: 'Admin Panel',
           href: '/admin/dashboard',
           icon: 'shield-halved',
           attributes: [
-            ['data-wm-bind', '@show auth.account.roles.admin']
-          ]
+            ['data-wm-bind', '@show auth.account.roles.admin'],
+          ],
         },
         {
           divider: true,
@@ -90,9 +111,9 @@
         {
           label: 'Sign Out',
           icon: 'arrow-right-from-bracket',
-          class: 'auth-signout-btn text-danger'
-        }
-      ]
-    }
-  ]
+          class: 'auth-signout-btn text-danger',
+        },
+      ],
+    },
+  ],
 }

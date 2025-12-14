@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Unlock Hidden TikTok Potential with Automated Tools"
-  excerpt: "Learn how to unlock hidden TikTok potential with automated tools like Somiibo TikTok Bot to grow your account, gain followers, and maximize engagement."
-  author: alex
+  description: "Learn how to unlock hidden TikTok potential with automated tools like Somiibo TikTok Bot to grow your account, gain followers, and maximize engagement."
+  author: alex-raeburn
   id: 1725699253
   tags: ["TikTok growth","automated TikTok tools","Somiibo TikTok Bot","increase TikTok followers","TikTok marketing"]
   categories: ["Social Media Marketing","TikTok Growth","Digital Marketing"]

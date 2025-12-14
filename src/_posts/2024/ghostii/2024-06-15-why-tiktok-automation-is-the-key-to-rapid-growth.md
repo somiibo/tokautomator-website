@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Why TikTok Automation is the Key to Rapid Growth"
-  excerpt: "Discover how TikTok automation tools like Somiibo can accelerate your TikTok growth by automating key activities, leading to more followers, likes, and views."
-  author: alex
+  description: "Discover how TikTok automation tools like Somiibo can accelerate your TikTok growth by automating key activities, leading to more followers, likes, and views."
+  author: rare-ivy
   id: 1718528048
   tags: ["TikTok automation","TikTok growth","Somiibo TikTok Bot","automated TikTok activity"]
   categories: ["Social Media Marketing","TikTok Tips","Automation Tools"]

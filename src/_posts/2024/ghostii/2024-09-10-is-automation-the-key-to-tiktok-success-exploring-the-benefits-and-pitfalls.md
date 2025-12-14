@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Is Automation the Key to TikTok Success? Exploring the Benefits and Pitfalls"
-  excerpt: "Explore the benefits and pitfalls of using automation tools to achieve TikTok success and see if it could be the key to skyrocketing your social media growth."
-  author: alex
+  description: "Explore the benefits and pitfalls of using automation tools to achieve TikTok success and see if it could be the key to skyrocketing your social media growth."
+  author: christina-hill
   id: 1726044854
   tags: ["TikTok automation","TikTok growth","TikTok bots","social media marketing","automated TikTok tools"]
   categories: ["Social Media Marketing","TikTok Growth","Automation Tools"]

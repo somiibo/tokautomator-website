@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "From Zero to Viral: How to Transform Your TikTok Presence"
-  excerpt: "Learn how to transform your TikTok presence from zero to viral with effective strategies and automation tools like Somiibo TikTok Bot."
-  author: alex
+  description: "Learn how to transform your TikTok presence from zero to viral with effective strategies and automation tools like Somiibo TikTok Bot."
+  author: rare-ivy
   id: 1742288049
   tags: ["TikTok growth","Somiibo TikTok Bot","viral content","TikTok marketing"]
   categories: ["TikTok Marketing","Social Media Growth","Digital Marketing Strategies"]

@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "How to Use TikTok Analytics to Enhance Your Strategy"
-  excerpt: "Discover how to effectively use TikTok Analytics to boost your marketing strategy and grow your TikTok presence with actionable insights."
-  author: alex
+  description: "Discover how to effectively use TikTok Analytics to boost your marketing strategy and grow your TikTok presence with actionable insights."
+  author: alex-raeburn
   id: 1729932852
   tags: ["TikTok Analytics","marketing strategy","social media growth","content insights","engagement metrics"]
   categories: ["Social Media Marketing","Digital Marketing","TikTok Strategy"]

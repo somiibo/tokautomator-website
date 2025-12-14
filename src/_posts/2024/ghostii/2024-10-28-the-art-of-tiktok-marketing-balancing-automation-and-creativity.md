@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "The Art of TikTok Marketing: Balancing Automation and Creativity"
-  excerpt: "Explore how to master TikTok marketing by balancing automation with creativity to effectively grow your audience and engagement on the platform."
-  author: alex
+  description: "Explore how to master TikTok marketing by balancing automation with creativity to effectively grow your audience and engagement on the platform."
+  author: alex-raeburn
   id: 1730192053
   tags: ["TikTok marketing","social media growth","content creation","automation tools"]
   categories: ["Social Media Marketing","Digital Marketing","Content Strategy"]

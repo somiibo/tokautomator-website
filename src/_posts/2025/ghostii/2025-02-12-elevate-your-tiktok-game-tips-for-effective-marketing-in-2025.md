@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Elevate Your TikTok Game: Tips for Effective Marketing in 2025"
-  excerpt: "Explore cutting-edge strategies and tips to elevate your TikTok marketing game in 2025 and boost your brand's online presence."
-  author: alex
+  description: "Explore cutting-edge strategies and tips to elevate your TikTok marketing game in 2025 and boost your brand's online presence."
+  author: alex-raeburn
   id: 1739436847
   tags: ["TikTok marketing","social media strategy","brand engagement","content creation"]
   categories: ["Social Media Marketing","Digital Marketing","TikTok Strategy"]

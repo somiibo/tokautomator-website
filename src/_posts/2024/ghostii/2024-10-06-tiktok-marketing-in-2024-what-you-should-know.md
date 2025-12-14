@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "TikTok Marketing in 2024: What You Should Know"
-  excerpt: "Discover the essential strategies for effective TikTok marketing in 2024, ensuring your brand stays ahead with engaging content and innovative growth tactics."
-  author: alex
+  description: "Discover the essential strategies for effective TikTok marketing in 2024, ensuring your brand stays ahead with engaging content and innovative growth tactics."
+  author: rare-ivy
   id: 1728291253
   tags: ["TikTok marketing","social media strategy","content creation","brand growth","digital marketing trends"]
   categories: ["Digital Marketing","Social Media","TikTok Strategies"]

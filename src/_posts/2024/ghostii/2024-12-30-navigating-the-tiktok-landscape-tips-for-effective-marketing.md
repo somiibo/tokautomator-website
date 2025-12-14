@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Navigating the TikTok Landscape: Tips for Effective Marketing"
-  excerpt: "Discover essential tips for navigating TikTok's dynamic landscape and effectively marketing your brand to boost visibility and engagement."
-  author: alex
+  description: "Discover essential tips for navigating TikTok's dynamic landscape and effectively marketing your brand to boost visibility and engagement."
+  author: alex-raeburn
   id: 1735635248
   tags: ["TikTok marketing","social media strategy","brand visibility","engagement tips"]
   categories: ["Social Media Marketing","Digital Marketing","TikTok Strategies"]

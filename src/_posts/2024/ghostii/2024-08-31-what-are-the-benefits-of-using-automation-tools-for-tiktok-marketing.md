@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "What Are the Benefits of Using Automation Tools for TikTok Marketing?"
-  excerpt: "Discover the benefits of using automation tools for TikTok marketing and how they can help you grow your account with more followers, likes, and views."
-  author: alex
+  description: "Discover the benefits of using automation tools for TikTok marketing and how they can help you grow your account with more followers, likes, and views."
+  author: christina-hill
   id: 1725180848
   tags: ["TikTok marketing","automation tools","grow TikTok account","increase TikTok followers","TikTok engagement"]
   categories: ["Social Media Marketing","TikTok Growth","Digital Marketing Strategies"]

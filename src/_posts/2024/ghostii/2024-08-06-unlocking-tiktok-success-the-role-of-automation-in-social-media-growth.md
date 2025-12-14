@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Unlocking TikTok Success: The Role of Automation in Social Media Growth"
-  excerpt: "Discover how to unlock TikTok success by leveraging automation tools like Somiibo TikTok Bot to boost your social media presence and drive growth."
-  author: alex
+  description: "Discover how to unlock TikTok success by leveraging automation tools like Somiibo TikTok Bot to boost your social media presence and drive growth."
+  author: alex-raeburn
   id: 1723020851
   tags: ["TikTok automation","Somiibo TikTok Bot","grow TikTok followers","social media growth"]
   categories: ["Social Media Marketing","TikTok Growth","Digital Marketing"]

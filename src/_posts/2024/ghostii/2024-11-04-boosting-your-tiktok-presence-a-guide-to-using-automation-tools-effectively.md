@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Boosting Your TikTok Presence: A Guide to Using Automation Tools Effectively"
-  excerpt: "Learn how to effectively boost your TikTok presence using automation tools like Somiibo, ensuring ethical use while maximizing growth potential."
-  author: alex
+  description: "Learn how to effectively boost your TikTok presence using automation tools like Somiibo, ensuring ethical use while maximizing growth potential."
+  author: rare-ivy
   id: 1730796849
   tags: ["TikTok automation","Somiibo bot","grow TikTok followers","TikTok marketing","social media growth"]
   categories: ["Social Media Marketing","TikTok Growth Strategies","Digital Marketing"]

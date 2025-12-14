@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "A Beginner's Guide to TikTok Marketing in 2024"
-  excerpt: "Discover the essential strategies and tips for effective TikTok marketing in 2024 to boost your brand's visibility and engagement."
-  author: alex
+  description: "Discover the essential strategies and tips for effective TikTok marketing in 2024 to boost your brand's visibility and engagement."
+  author: christina-hill
   id: 1726563252
   tags: ["TikTok marketing","TikTok trends 2024","social media strategy","engagement tips","TikTok algorithm"]
   categories: ["Social Media Marketing","Digital Marketing","TikTok Strategy"]

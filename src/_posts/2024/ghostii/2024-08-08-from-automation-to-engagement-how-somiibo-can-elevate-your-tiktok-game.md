@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "From Automation to Engagement: How Somiibo Can Elevate Your TikTok Game"
-  excerpt: "Discover how Somiibo can elevate your TikTok game by automating your activity and maximizing engagement, leading to more followers, likes, and views."
-  author: alex
+  description: "Discover how Somiibo can elevate your TikTok game by automating your activity and maximizing engagement, leading to more followers, likes, and views."
+  author: rare-ivy
   id: 1723193649
   tags: ["TikTok automation","Somiibo TikTok bot","grow TikTok followers","increase TikTok engagement","TikTok marketing"]
   categories: ["TikTok Marketing","Social Media Automation","Digital Marketing"]

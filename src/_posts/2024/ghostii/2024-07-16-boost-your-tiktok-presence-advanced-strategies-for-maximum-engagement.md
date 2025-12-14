@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Boost Your TikTok Presence: Advanced Strategies for Maximum Engagement"
-  excerpt: "Discover advanced strategies to boost your TikTok engagement and learn how TokAutomator can help you automate your way to social media success."
-  author: alex
+  description: "Discover advanced strategies to boost your TikTok engagement and learn how TokAutomator can help you automate your way to social media success."
+  author: alex-raeburn
   id: 1721206448
   tags: ["TikTok engagement","TikTok growth","TikTok automation","increase TikTok followers","TokAutomator"]
   categories: ["Social Media Marketing","TikTok Growth","Digital Marketing Strategies"]

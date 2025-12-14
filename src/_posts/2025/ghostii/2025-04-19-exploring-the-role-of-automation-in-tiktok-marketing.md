@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Exploring the Role of Automation in TikTok Marketing"
-  excerpt: "Discover how automation is revolutionizing TikTok marketing, boosting growth, and engagement with tools like Somiibo for a successful social media strategy."
-  author: alex
+  description: "Discover how automation is revolutionizing TikTok marketing, boosting growth, and engagement with tools like Somiibo for a successful social media strategy."
+  author: christina-hill
   id: 1745139245
   tags: ["TikTok automation","social media marketing","TikTok growth","automation tools"]
   categories: ["Social Media Marketing","TikTok Growth Strategies","Digital Marketing Automation"]

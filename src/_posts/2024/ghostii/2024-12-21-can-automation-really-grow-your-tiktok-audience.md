@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Can Automation Really Grow Your TikTok Audience?"
-  excerpt: "Discover how automation can enhance your TikTok growth strategy and increase your followers, likes, and views effortlessly."
-  author: alex
+  description: "Discover how automation can enhance your TikTok growth strategy and increase your followers, likes, and views effortlessly."
+  author: rare-ivy
   id: 1734857647
   tags: ["TikTok growth","automation tools","social media marketing","increase followers"]
   categories: ["Social Media Marketing","TikTok Growth","Digital Marketing"]

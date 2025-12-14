@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Why Automation is Key to Sustaining TikTok Engagement"
-  excerpt: "Discover how automation is essential for sustaining engagement on TikTok and learn how tools like the Somiibo TikTok Bot can boost your account's growth."
-  author: alex
+  description: "Discover how automation is essential for sustaining engagement on TikTok and learn how tools like the Somiibo TikTok Bot can boost your account's growth."
+  author: christina-hill
   id: 1749286443
   tags: ["TikTok automation","Somiibo TikTok Bot","TikTok engagement","social media growth","increase TikTok followers"]
   categories: ["Social Media Marketing","Digital Marketing","TikTok Growth Strategies"]

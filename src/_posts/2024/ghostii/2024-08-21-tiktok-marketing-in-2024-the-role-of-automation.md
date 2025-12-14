@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "TikTok Marketing in 2024: The Role of Automation"
-  excerpt: "Explore how TikTok marketing in 2024 is revolutionized by automation, and learn how to use TokAutomator to grow your TikTok account efficiently."
-  author: alex
+  description: "Explore how TikTok marketing in 2024 is revolutionized by automation, and learn how to use TokAutomator to grow your TikTok account efficiently."
+  author: rare-ivy
   id: 1724316848
   tags: ["TikTok marketing","automation","TikTok growth","TokAutomator"]
   categories: ["Social Media Marketing","TikTok Strategies","Marketing Automation"]

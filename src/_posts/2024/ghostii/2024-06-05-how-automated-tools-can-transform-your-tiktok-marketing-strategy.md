@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "How Automated Tools Can Transform Your TikTok Marketing Strategy"
-  excerpt: "Discover how automated tools like the Somiibo TikTok Bot can revolutionize your TikTok marketing strategy, bringing more followers, likes, and views effortlessly."
-  author: alex
+  description: "Discover how automated tools like the Somiibo TikTok Bot can revolutionize your TikTok marketing strategy, bringing more followers, likes, and views effortlessly."
+  author: christina-hill
   id: 1717664048
   tags: ["TikTok marketing","automated tools","Somiibo TikTok Bot","grow TikTok followers","TikTok growth service"]
   categories: ["Social Media Marketing","TikTok Growth","Digital Marketing Strategies"]

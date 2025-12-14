@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Exploring the Benefits of TikTok Automation for Rapid Growth"
-  excerpt: "Discover how TikTok automation can help you rapidly grow your account by increasing followers, likes, and views effortlessly."
-  author: alex
+  description: "Discover how TikTok automation can help you rapidly grow your account by increasing followers, likes, and views effortlessly."
+  author: christina-hill
   id: 1726649653
   tags: ["TikTok automation","TikTok growth","social media marketing","increase TikTok followers"]
   categories: ["Social Media Marketing","TikTok Growth","Digital Marketing"]

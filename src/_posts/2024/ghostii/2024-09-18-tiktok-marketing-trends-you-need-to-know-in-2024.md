@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "TikTok Marketing Trends You Need to Know in 2024"
-  excerpt: "Discover the essential TikTok marketing trends for 2024 and learn how to effectively engage your audience using innovative strategies and automation tools."
-  author: alex
+  description: "Discover the essential TikTok marketing trends for 2024 and learn how to effectively engage your audience using innovative strategies and automation tools."
+  author: rare-ivy
   id: 1726736054
   tags: ["TikTok marketing","social media trends 2024","TikTok influencers","automation tools","TikTok strategy"]
   categories: ["Social Media Marketing","Digital Marketing","TikTok Growth"]

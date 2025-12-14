@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Effective TikTok Marketing: Key Strategies for Rapid Growth in 2024"
-  excerpt: "Discover the most effective TikTok marketing strategies for rapid growth in 2024, including tips on leveraging influencers, crafting engaging content, and using automation tools like TokAutomator."
-  author: alex
+  description: "Discover the most effective TikTok marketing strategies for rapid growth in 2024, including tips on leveraging influencers, crafting engaging content, and using automation tools like TokAutomator."
+  author: christina-hill
   id: 1720515248
   tags: ["TikTok marketing","TikTok growth strategies","social media automation","influencer marketing","TikTok algorithm"]
   categories: ["Social Media Marketing","Digital Marketing","TikTok Growth Strategies"]

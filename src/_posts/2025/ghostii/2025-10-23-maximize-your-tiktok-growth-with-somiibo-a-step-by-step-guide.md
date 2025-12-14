@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Maximize Your TikTok Growth with Somiibo: A Step-by-Step Guide"
-  excerpt: "Discover how to supercharge your TikTok growth using Somiibo with our comprehensive step-by-step guide."
-  author: alex
+  description: "Discover how to supercharge your TikTok growth using Somiibo with our comprehensive step-by-step guide."
+  author: christina-hill
   id: 1761296045
   tags: ["TikTok growth","Somiibo bot","social media automation","TikTok engagement"]
   categories: ["Social Media Marketing","TikTok Growth","Digital Marketing"]

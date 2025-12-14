@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Is Automation the Key to TikTok Success?"
-  excerpt: "Discover how automation tools like the Somiibo TikTok Bot can skyrocket your TikTok account growth by increasing followers, likes, and views."
-  author: alex
+  description: "Discover how automation tools like the Somiibo TikTok Bot can skyrocket your TikTok account growth by increasing followers, likes, and views."
+  author: christina-hill
   id: 1723366446
   tags: ["TikTok automation","Somiibo TikTok Bot","grow TikTok followers","TikTok marketing"]
   categories: ["Social Media Marketing","TikTok Growth","Digital Marketing"]

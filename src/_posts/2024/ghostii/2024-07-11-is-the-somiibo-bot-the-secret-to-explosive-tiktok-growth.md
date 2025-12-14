@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Is the Somiibo Bot the Secret to Explosive TikTok Growth?"
-  excerpt: "Discover how the Somiibo Bot can revolutionize your TikTok growth strategy, helping you gain more followers, likes, and views effortlessly."
-  author: alex
+  description: "Discover how the Somiibo Bot can revolutionize your TikTok growth strategy, helping you gain more followers, likes, and views effortlessly."
+  author: rare-ivy
   id: 1720774448
   tags: ["TikTok growth","Somiibo Bot","TikTok automation","increase TikTok followers","boost TikTok engagement"]
   categories: ["TikTok Marketing","Social Media Automation","Influencer Growth"]

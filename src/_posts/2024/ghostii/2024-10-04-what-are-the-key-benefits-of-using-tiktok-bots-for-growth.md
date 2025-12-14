@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "What Are the Key Benefits of Using TikTok Bots for Growth?"
-  excerpt: "Discover the key benefits of using TikTok bots to automate your growth strategy and maximize your account's potential with increased followers, likes, and views."
-  author: alex
+  description: "Discover the key benefits of using TikTok bots to automate your growth strategy and maximize your account's potential with increased followers, likes, and views."
+  author: christina-hill
   id: 1728118454
   tags: ["TikTok bots","social media automation","growth strategy","Somiibo TikTok Bot"]
   categories: ["Social Media Marketing","Digital Marketing","Influencer Marketing"]

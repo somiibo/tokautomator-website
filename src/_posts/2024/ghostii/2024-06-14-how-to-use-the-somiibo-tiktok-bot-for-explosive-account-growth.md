@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "How to Use the Somiibo TikTok Bot for Explosive Account Growth"
-  excerpt: "Learn how to supercharge your TikTok growth with the Somiibo bot, including setup, best practices, and compliance tips."
-  author: alex
+  description: "Learn how to supercharge your TikTok growth with the Somiibo bot, including setup, best practices, and compliance tips."
+  author: christina-hill
   id: 1718441649
   tags: ["TikTok growth","Somiibo bot","automate TikTok","grow TikTok followers"]
   categories: ["TikTok Marketing","Social Media Growth","Digital Marketing"]

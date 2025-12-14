@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "TikTok Marketing: Tips and Tricks for 2025 Success"
-  excerpt: "Discover the latest TikTok marketing strategies and tips for 2025 to boost engagement and success on the platform."
-  author: alex
+  description: "Discover the latest TikTok marketing strategies and tips for 2025 to boost engagement and success on the platform."
+  author: christina-hill
   id: 1744620845
   tags: ["TikTok marketing","social media strategy","engagement tips","2025 trends","brand growth"]
   categories: ["Social Media Marketing","Digital Marketing","TikTok Strategies"]

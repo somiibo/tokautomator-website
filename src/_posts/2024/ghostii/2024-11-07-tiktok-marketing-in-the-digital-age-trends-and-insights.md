@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "TikTok Marketing in the Digital Age: Trends and Insights"
-  excerpt: "Explore the latest trends and insights in TikTok marketing and discover effective strategies to elevate your brand in the digital age."
-  author: alex
+  description: "Explore the latest trends and insights in TikTok marketing and discover effective strategies to elevate your brand in the digital age."
+  author: rare-ivy
   id: 1731056048
   tags: ["TikTok marketing","digital marketing","social media strategy","TikTok trends"]
   categories: ["Social Media Marketing","Digital Marketing","TikTok Strategies"]

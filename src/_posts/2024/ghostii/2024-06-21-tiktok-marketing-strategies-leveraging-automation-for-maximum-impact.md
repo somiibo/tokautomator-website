@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "TikTok Marketing Strategies: Leveraging Automation for Maximum Impact"
-  excerpt: "Discover how to leverage automation tools like Somiibo TikTok Bot to enhance your marketing strategies and achieve maximum impact on TikTok."
-  author: alex
+  description: "Discover how to leverage automation tools like Somiibo TikTok Bot to enhance your marketing strategies and achieve maximum impact on TikTok."
+  author: alex-raeburn
   id: 1719046449
   tags: ["TikTok marketing","automation tools","Somiibo TikTok Bot","grow TikTok account"]
   categories: ["Social Media Marketing","Automation Tools","Digital Marketing Strategies"]

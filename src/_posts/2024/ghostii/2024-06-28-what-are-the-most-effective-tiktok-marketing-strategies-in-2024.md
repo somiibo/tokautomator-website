@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "What Are the Most Effective TikTok Marketing Strategies in 2024?"
-  excerpt: "Discover the most effective TikTok marketing strategies for 2024 to maximize your brand's reach, engagement, and growth on the platform."
-  author: alex
+  description: "Discover the most effective TikTok marketing strategies for 2024 to maximize your brand's reach, engagement, and growth on the platform."
+  author: christina-hill
   id: 1719651250
   tags: ["TikTok marketing strategies","TikTok growth 2024","social media marketing","influencer marketing"]
   categories: ["Social Media Marketing","Digital Marketing","TikTok Marketing"]

@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Mastering TikTok Engagement: Tips and Tricks for Rapid Growth"
-  excerpt: "Learn how to master TikTok engagement with expert tips and tricks for rapid growth, including the use of automation tools like Somiibo."
-  author: alex
+  description: "Learn how to master TikTok engagement with expert tips and tricks for rapid growth, including the use of automation tools like Somiibo."
+  author: rare-ivy
   id: 1720860849
   tags: ["TikTok engagement","TikTok growth tips","Somiibo TikTok bot","TikTok marketing"]
   categories: ["Social Media Marketing","TikTok Tips","Digital Marketing"]

@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Harnessing TikTok Automation for Unprecedented Growth"
-  excerpt: "Discover how TikTok automation can skyrocket your account growth by leveraging tools and strategies to increase followers, likes, and views efficiently."
-  author: alex
+  description: "Discover how TikTok automation can skyrocket your account growth by leveraging tools and strategies to increase followers, likes, and views efficiently."
+  author: rare-ivy
   id: 1743843248
   tags: ["TikTok automation","TikTok growth","social media marketing","Somiibo TikTok Bot"]
   categories: ["Social Media Marketing","Digital Marketing","TikTok Growth"]

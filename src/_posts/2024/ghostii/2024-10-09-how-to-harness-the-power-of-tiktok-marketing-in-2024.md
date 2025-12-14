@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "How to Harness the Power of TikTok Marketing in 2024"
-  excerpt: "Discover how to effectively harness the power of TikTok marketing in 2024 with strategies to boost engagement and grow your brand's presence."
-  author: alex
+  description: "Discover how to effectively harness the power of TikTok marketing in 2024 with strategies to boost engagement and grow your brand's presence."
+  author: rare-ivy
   id: 1728550454
   tags: ["TikTok marketing","TikTok algorithm","TikTok ads","Influencer marketing"]
   categories: ["Digital Marketing","Social Media Marketing","TikTok"]

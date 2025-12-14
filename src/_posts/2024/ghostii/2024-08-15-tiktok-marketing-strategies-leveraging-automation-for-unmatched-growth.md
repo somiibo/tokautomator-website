@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "TikTok Marketing Strategies: Leveraging Automation for Unmatched Growth"
-  excerpt: "Discover how to leverage automation tools like the Somiibo TikTok Bot to achieve unmatched growth and success in your TikTok marketing efforts."
-  author: alex
+  description: "Discover how to leverage automation tools like the Somiibo TikTok Bot to achieve unmatched growth and success in your TikTok marketing efforts."
+  author: alex-raeburn
   id: 1723798447
   tags: ["TikTok marketing","TikTok automation","Somiibo TikTok Bot","grow TikTok followers"]
   categories: ["Digital Marketing","Social Media Marketing","Automation Tools"]

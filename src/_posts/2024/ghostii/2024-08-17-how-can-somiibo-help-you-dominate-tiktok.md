@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "How Can Somiibo Help You Dominate TikTok?"
-  excerpt: "Discover how Somiibo can help you dominate TikTok by automating your activity, increasing followers, likes, and views efficiently."
-  author: alex
+  description: "Discover how Somiibo can help you dominate TikTok by automating your activity, increasing followers, likes, and views efficiently."
+  author: alex-raeburn
   id: 1723971248
   tags: ["TikTok growth","Somiibo TikTok Bot","TikTok followers","automate TikTok"]
   categories: ["Social Media Marketing","TikTok Growth","Marketing Automation"]

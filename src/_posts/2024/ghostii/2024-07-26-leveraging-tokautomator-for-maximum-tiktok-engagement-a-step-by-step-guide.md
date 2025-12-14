@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Leveraging TokAutomator for Maximum TikTok Engagement: A Step-by-Step Guide"
-  excerpt: "Learn how to use TokAutomator to grow your TikTok account with this step-by-step guide, featuring tips, best practices, and success stories."
-  author: alex
+  description: "Learn how to use TokAutomator to grow your TikTok account with this step-by-step guide, featuring tips, best practices, and success stories."
+  author: alex-raeburn
   id: 1722070449
   tags: ["TikTok growth","TokAutomator","TikTok automation","increase TikTok followers","boost TikTok engagement"]
   categories: ["TikTok Marketing","Social Media Automation","Digital Marketing"]

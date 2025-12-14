@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Navigating TikTok Marketing: Strategies for 2025 and Beyond"
-  excerpt: "Discover cutting-edge strategies for TikTok marketing in 2025 and beyond, and learn how to navigate the platform's dynamic landscape to boost your brand's online presence."
-  author: alex
+  description: "Discover cutting-edge strategies for TikTok marketing in 2025 and beyond, and learn how to navigate the platform's dynamic landscape to boost your brand's online presence."
+  author: christina-hill
   id: 1733475243
   tags: ["TikTok marketing","social media strategy","digital marketing trends","brand growth","content creation"]
   categories: ["Social Media Marketing","Digital Marketing","Technology Trends"]

@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Leveraging Automation for TikTok Success: A Step-by-Step Guide"
-  excerpt: "Discover how to leverage automation tools like Somiibo to enhance your TikTok marketing strategy, increase followers, and boost engagement effectively."
-  author: alex
+  description: "Discover how to leverage automation tools like Somiibo to enhance your TikTok marketing strategy, increase followers, and boost engagement effectively."
+  author: christina-hill
   id: 1722848048
   tags: ["TikTok automation","Somiibo TikTok bot","TikTok marketing"]
   categories: ["Social Media Marketing","TikTok Tips","Automation Tools"]

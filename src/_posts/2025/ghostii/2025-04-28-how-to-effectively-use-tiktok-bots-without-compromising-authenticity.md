@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "How to Effectively Use TikTok Bots Without Compromising Authenticity"
-  excerpt: "Learn how to effectively use TikTok bots to enhance your social media presence without compromising authenticity, and discover strategies for sustainable growth."
-  author: alex
+  description: "Learn how to effectively use TikTok bots to enhance your social media presence without compromising authenticity, and discover strategies for sustainable growth."
+  author: christina-hill
   id: 1745916843
   tags: ["TikTok bots","social media growth","authentic engagement","TikTok marketing","automation strategies"]
   categories: ["Social Media Marketing","Influencer Marketing","Digital Marketing"]

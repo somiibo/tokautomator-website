@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Understanding the Impact of Automation on Your TikTok Strategy"
-  excerpt: "Discover how automation can revolutionize your TikTok strategy, helping you gain more followers, likes, and views efficiently."
-  author: alex
+  description: "Discover how automation can revolutionize your TikTok strategy, helping you gain more followers, likes, and views efficiently."
+  author: christina-hill
   id: 1723539245
   tags: ["TikTok automation","TikTok strategy","TikTok growth","social media automation","TikTok bots"]
   categories: ["Social Media Marketing","TikTok Growth","Automation Tools"]

@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Can Automation Enhance Your TikTok Strategy?"
-  excerpt: "Explore how automation can elevate your TikTok strategy by increasing engagement and maximizing reach, offering a competitive edge in social media marketing."
-  author: alex
+  description: "Explore how automation can elevate your TikTok strategy by increasing engagement and maximizing reach, offering a competitive edge in social media marketing."
+  author: christina-hill
   id: 1728204853
   tags: ["TikTok strategy","automation tools","social media marketing","engagement"]
   categories: ["TikTok Marketing","Social Media Strategy","Digital Marketing"]

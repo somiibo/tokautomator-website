@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Is TokAutomator the Key to Your Next Viral TikTok?"
-  excerpt: "Discover how TokAutomator can skyrocket your TikTok growth by automating your activity and unlocking viral potential."
-  author: alex
+  description: "Discover how TokAutomator can skyrocket your TikTok growth by automating your activity and unlocking viral potential."
+  author: rare-ivy
   id: 1722675247
   tags: ["TikTok growth","TokAutomator","viral TikTok","TikTok followers","TikTok marketing"]
   categories: ["Social Media Marketing","TikTok Growth","Digital Marketing Tools"]

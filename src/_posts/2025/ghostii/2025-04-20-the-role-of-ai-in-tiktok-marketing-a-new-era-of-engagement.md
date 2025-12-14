@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "The Role of AI in TikTok Marketing: A New Era of Engagement"
-  excerpt: "Discover how AI is transforming TikTok marketing, ushering in a new era of engagement and growth opportunities for brands and creators."
-  author: alex
+  description: "Discover how AI is transforming TikTok marketing, ushering in a new era of engagement and growth opportunities for brands and creators."
+  author: christina-hill
   id: 1745225648
   tags: ["AI in TikTok","TikTok marketing","social media growth","engagement strategies"]
   categories: ["Digital Marketing","Social Media","Artificial Intelligence"]

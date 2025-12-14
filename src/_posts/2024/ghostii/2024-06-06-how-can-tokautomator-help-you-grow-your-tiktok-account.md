@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "How Can TokAutomator Help You Grow Your TikTok Account?"
-  excerpt: "Discover how TokAutomator can help you grow your TikTok account by automating activities to gain more followers, likes, and views effortlessly."
-  author: alex
+  description: "Discover how TokAutomator can help you grow your TikTok account by automating activities to gain more followers, likes, and views effortlessly."
+  author: alex-raeburn
   id: 1717750448
   tags: ["TikTok growth","automate TikTok","TokAutomator","increase TikTok followers","grow TikTok account"]
   categories: ["TikTok Marketing","Social Media Growth","Automation Tools"]

@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "TikTok Growth Simplified: How TokAutomator Can Help You Succeed"
-  excerpt: "Discover how TokAutomator can help you grow your TikTok account effortlessly by automating your activity to gain more followers, likes, and views."
-  author: alex
+  description: "Discover how TokAutomator can help you grow your TikTok account effortlessly by automating your activity to gain more followers, likes, and views."
+  author: rare-ivy
   id: 1721638449
   tags: ["TikTok growth","TokAutomator","automate TikTok","increase TikTok followers","TikTok marketing"]
   categories: ["TikTok Marketing","Social Media Automation","Digital Growth Tools"]

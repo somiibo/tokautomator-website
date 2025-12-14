@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Leveraging TokAutomator: Advanced Techniques for Maximum TikTok Engagement"
-  excerpt: "Discover advanced techniques to maximize TikTok engagement using TokAutomator, a powerful tool for automating your TikTok activity and growing your account efficiently."
-  author: alex
+  description: "Discover advanced techniques to maximize TikTok engagement using TokAutomator, a powerful tool for automating your TikTok activity and growing your account efficiently."
+  author: rare-ivy
   id: 1727427254
   tags: ["TikTok engagement","TokAutomator","TikTok growth","social media automation","TikTok marketing"]
   categories: ["Social Media Marketing","TikTok Growth","Digital Marketing Strategies"]

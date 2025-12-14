@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Leveraging TikTok's Algorithm: What Automation Can't Replace"
-  excerpt: "Discover how to effectively leverage TikTok's algorithm for growth while maintaining creativity and authenticity that automation can't replace."
-  author: alex
+  description: "Discover how to effectively leverage TikTok's algorithm for growth while maintaining creativity and authenticity that automation can't replace."
+  author: rare-ivy
   id: 1731142448
   tags: ["TikTok algorithm","social media growth","TikTok marketing","automation limitations"]
   categories: ["Social Media Marketing","TikTok Growth Strategies","Digital Marketing"]

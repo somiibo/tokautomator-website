@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Beyond Automation: Creative Strategies for Enhancing TikTok Engagement"
-  excerpt: "Discover creative strategies to enhance engagement on TikTok beyond automation, and learn how to leverage innovative content ideas and community interactions for optimal growth."
-  author: alex
+  description: "Discover creative strategies to enhance engagement on TikTok beyond automation, and learn how to leverage innovative content ideas and community interactions for optimal growth."
+  author: rare-ivy
   id: 1729673653
   tags: ["TikTok engagement","creative strategies","social media growth","content ideas"]
   categories: ["Social Media Marketing","TikTok Strategy","Digital Engagement"]

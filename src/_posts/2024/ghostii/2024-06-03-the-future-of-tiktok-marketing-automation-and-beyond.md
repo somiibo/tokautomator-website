@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "The Future of TikTok Marketing: Automation and Beyond"
-  excerpt: "Discover how TokAutomator revolutionizes TikTok marketing through automation, helping you grow your account effortlessly and effectively."
-  author: alex
+  description: "Discover how TokAutomator revolutionizes TikTok marketing through automation, helping you grow your account effortlessly and effectively."
+  author: christina-hill
   id: 1717491248
   tags: ["TikTok marketing","automation","TokAutomator","increase followers","social media growth"]
   categories: ["Social Media Marketing","Digital Marketing","TikTok Growth"]

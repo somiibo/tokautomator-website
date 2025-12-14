@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Mastering TikTok Growth: A Step-by-Step Guide to Using TokAutomator"
-  excerpt: "Learn how to effortlessly grow your TikTok account with TokAutomator through this comprehensive step-by-step guide."
-  author: alex
+  description: "Learn how to effortlessly grow your TikTok account with TokAutomator through this comprehensive step-by-step guide."
+  author: christina-hill
   id: 1723884849
   tags: ["TikTok growth","TokAutomator","social media automation","increase followers","TikTok marketing"]
   categories: ["Social Media Marketing","TikTok Growth","Digital Marketing Tools"]

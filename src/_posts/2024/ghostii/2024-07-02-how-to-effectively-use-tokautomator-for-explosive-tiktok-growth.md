@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "How to Effectively Use TokAutomator for Explosive TikTok Growth"
-  excerpt: "Discover how to effectively use TokAutomator to significantly grow your TikTok account with more followers, likes, and views."
-  author: alex
+  description: "Discover how to effectively use TokAutomator to significantly grow your TikTok account with more followers, likes, and views."
+  author: rare-ivy
   id: 1719996849
   tags: ["TikTok growth","TokAutomator","TikTok followers","TikTok marketing"]
   categories: ["Social Media Marketing","TikTok Growth Strategies","Automation Tools"]

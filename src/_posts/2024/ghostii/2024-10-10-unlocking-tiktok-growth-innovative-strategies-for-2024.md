@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Unlocking TikTok Growth: Innovative Strategies for 2024"
-  excerpt: "Discover innovative strategies and tools like TokAutomator to supercharge your TikTok growth in 2024 and gain more followers, likes, and views."
-  author: alex
+  description: "Discover innovative strategies and tools like TokAutomator to supercharge your TikTok growth in 2024 and gain more followers, likes, and views."
+  author: rare-ivy
   id: 1728636853
   tags: ["TikTok growth","social media marketing","TikTok automation","Somiibo TikTok Bot","engagement strategies"]
   categories: ["Digital Marketing","Social Media Strategies","TikTok Growth"]

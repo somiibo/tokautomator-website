@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Growing Your TikTok Audience: Tips for Organic and Automated Strategies"
-  excerpt: "Discover effective strategies for growing your TikTok audience with a mix of organic methods and automated tools like the Somiibo TikTok Bot."
-  author: alex
+  description: "Discover effective strategies for growing your TikTok audience with a mix of organic methods and automated tools like the Somiibo TikTok Bot."
+  author: christina-hill
   id: 1732870447
   tags: ["TikTok growth","audience engagement","social media automation","organic reach","Somiibo bot"]
   categories: ["Social Media Marketing","TikTok Growth","Digital Marketing"]

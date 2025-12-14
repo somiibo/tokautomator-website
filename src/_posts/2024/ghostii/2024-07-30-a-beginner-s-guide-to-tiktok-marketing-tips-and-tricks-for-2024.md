@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "A Beginner's Guide to TikTok Marketing: Tips and Tricks for 2024"
-  excerpt: "Learn essential tips and tricks for TikTok marketing in 2024, including how to leverage the Somiibo TikTok Bot to grow your account effectively."
-  author: alex
+  description: "Learn essential tips and tricks for TikTok marketing in 2024, including how to leverage the Somiibo TikTok Bot to grow your account effectively."
+  author: alex-raeburn
   id: 1722416050
   tags: ["TikTok marketing","Somiibo TikTok Bot","grow TikTok followers","TikTok tips 2024","TikTok business account"]
   categories: ["Social Media Marketing","Digital Marketing","TikTok Growth Strategies"]

@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Is TokAutomator the Key to Unlocking Viral TikTok Content?"
-  excerpt: "Discover how TokAutomator can help you achieve viral success on TikTok by automating your activity to gain more followers, likes, and views."
-  author: alex
+  description: "Discover how TokAutomator can help you achieve viral success on TikTok by automating your activity to gain more followers, likes, and views."
+  author: rare-ivy
   id: 1726304054
   tags: ["TikTok growth","TokAutomator","viral TikTok content","TikTok automation"]
   categories: ["TikTok Marketing","Social Media Growth","Digital Marketing"]

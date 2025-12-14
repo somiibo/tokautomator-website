@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "TikTok Success in 2024: Integrating Creative Strategies with Automation"
-  excerpt: "Discover how to achieve TikTok success in 2024 by integrating creative strategies with automation using tools like the Somiibo TikTok Bot."
-  author: alex
+  description: "Discover how to achieve TikTok success in 2024 by integrating creative strategies with automation using tools like the Somiibo TikTok Bot."
+  author: rare-ivy
   id: 1731488050
   tags: ["TikTok growth","automation tools","creative strategies","Somiibo TikTok Bot"]
   categories: ["TikTok Marketing","Social Media Strategy","Digital Automation"]

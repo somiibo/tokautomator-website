@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Why Automation is the Future of TikTok Marketing: Insights and Tips"
-  excerpt: "Discover how automation is revolutionizing TikTok marketing and learn tips to grow your account using the Somiibo TikTok Bot."
-  author: alex
+  description: "Discover how automation is revolutionizing TikTok marketing and learn tips to grow your account using the Somiibo TikTok Bot."
+  author: rare-ivy
   id: 1718009648
   tags: ["TikTok marketing","automation tools","Somiibo TikTok Bot","TikTok growth strategies","social media automation"]
   categories: ["Social Media Marketing","Digital Marketing","Automation Tools"]

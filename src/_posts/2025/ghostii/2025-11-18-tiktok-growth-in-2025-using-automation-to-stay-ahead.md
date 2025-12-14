@@ -6,7 +6,7 @@ layout: blueprint/blog/post
 post:
   title: "TikTok Growth in 2025: Using Automation to Stay Ahead"
   description: "Explore how automation, including tools like Somiibo, is revolutionizing TikTok growth strategies in 2025 to help you gain followers, likes, and views effortlessly."
-  author: alex
+  author: alex-raeburn
   id: 1763542444
   tags: ["TikTok growth","automation tools","Somiibo TikTok Bot","social media marketing"]
   categories: ["Social Media Marketing","Digital Marketing","Automation Tools"]

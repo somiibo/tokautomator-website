@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Is TikTok the Future of Social Media Marketing?"
-  excerpt: "Explore how TikTok is revolutionizing social media marketing and discover strategies to maximize brand engagement and growth on this dynamic platform."
-  author: alex
+  description: "Explore how TikTok is revolutionizing social media marketing and discover strategies to maximize brand engagement and growth on this dynamic platform."
+  author: alex-raeburn
   id: 1730364849
   tags: ["TikTok marketing","social media strategy","brand engagement","digital marketing"]
   categories: ["Social Media Marketing","Digital Marketing","Brand Development"]

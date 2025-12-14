@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Harnessing the Power of TikTok: Strategies for Sustainable Growth"
-  excerpt: "Discover effective strategies for leveraging TikTok's unique platform to achieve sustainable growth and enhance your brand's presence online."
-  author: alex
+  description: "Discover effective strategies for leveraging TikTok's unique platform to achieve sustainable growth and enhance your brand's presence online."
+  author: christina-hill
   id: 1730537650
   tags: ["TikTok growth","social media marketing","engaging content","brand strategy","digital marketing"]
   categories: ["Digital Marketing","Social Media Strategy","Brand Growth"]

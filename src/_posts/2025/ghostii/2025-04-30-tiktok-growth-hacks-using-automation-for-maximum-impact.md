@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "TikTok Growth Hacks: Using Automation for Maximum Impact"
-  excerpt: "Discover effective TikTok growth hacks with automation, including how to use the Somiibo TikTok Bot to boost your followers, likes, and views."
-  author: alex
+  description: "Discover effective TikTok growth hacks with automation, including how to use the Somiibo TikTok Bot to boost your followers, likes, and views."
+  author: alex-raeburn
   id: 1746089644
   tags: ["TikTok growth","automation tools","Somiibo TikTok Bot","increase followers"]
   categories: ["Social Media Marketing","TikTok Growth","Digital Marketing"]

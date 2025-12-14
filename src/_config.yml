@@ -171,16 +171,16 @@ cloudflare:
 # Download
 download:
   mac:
-    universal: ""
+    universal: "https://somiibo.com/download"
   windows:
-    universal: ""
+    universal: "https://somiibo.com/download"
   linux:
-    debian: ""
-    snap: ""
+    debian: "https://somiibo.com/download"
+    snap: "https://somiibo.com/download"
   ios:
-    universal: ""
+    universal: "https://somiibo.com/download"
   android:
-    universal: ""
+    universal: "https://somiibo.com/download"
 
 # Extension
 extension:
@@ -244,6 +244,9 @@ collections:
   team:
     title: Team Members
     output: true
+  updates:
+    title: Updates
+    output: true
 
 # Jekyll defaults
 defaults:
@@ -252,3 +255,8 @@ defaults:
     type: team
   values:
     permalink: /team/:title
+- scope:
+    path: ""
+    type: updates
+  values:
+    permalink: /updates/:title

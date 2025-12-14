@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Boost Your TikTok Presence: Tips for Using TokAutomator Effectively"
-  excerpt: "Learn how to effectively boost your TikTok presence using TokAutomator with these expert tips and strategies."
-  author: alex
+  description: "Learn how to effectively boost your TikTok presence using TokAutomator with these expert tips and strategies."
+  author: rare-ivy
   id: 1717577648
   tags: ["TikTok growth","TokAutomator","increase TikTok followers","TikTok automation","TikTok marketing"]
   categories: ["Social Media Marketing","TikTok Growth Strategies","Digital Marketing Tools"]

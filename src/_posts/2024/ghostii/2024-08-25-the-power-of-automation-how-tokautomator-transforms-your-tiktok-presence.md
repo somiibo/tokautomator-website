@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "The Power of Automation: How TokAutomator Transforms Your TikTok Presence"
-  excerpt: "Discover how TokAutomator leverages automation to enhance your TikTok presence, gaining more followers, likes, and views effortlessly."
-  author: alex
+  description: "Discover how TokAutomator leverages automation to enhance your TikTok presence, gaining more followers, likes, and views effortlessly."
+  author: alex-raeburn
   id: 1724662448
   tags: ["TikTok automation","grow TikTok followers","increase TikTok engagement","social media marketing"]
   categories: ["Social Media Marketing","TikTok Growth","Automation Tools"]

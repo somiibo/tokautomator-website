@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "How to Maximize Your TikTok Growth with the Somiibo Bot"
-  excerpt: "Discover how to maximize your TikTok growth with the Somiibo Bot by automating your activity and boosting your followers, likes, and views."
-  author: alex
+  description: "Discover how to maximize your TikTok growth with the Somiibo Bot by automating your activity and boosting your followers, likes, and views."
+  author: alex-raeburn
   id: 1731833644
   tags: ["TikTok growth","Somiibo Bot","automated TikTok","increase followers","social media marketing"]
   categories: ["Social Media Marketing","TikTok Growth Strategies","Digital Marketing Tools"]

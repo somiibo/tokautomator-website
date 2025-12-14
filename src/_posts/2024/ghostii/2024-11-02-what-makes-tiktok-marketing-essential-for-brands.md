@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "What Makes TikTok Marketing Essential for Brands?"
-  excerpt: "Discover why TikTok marketing is essential for brands seeking to boost engagement and visibility in today's digital landscape."
-  author: alex
+  description: "Discover why TikTok marketing is essential for brands seeking to boost engagement and visibility in today's digital landscape."
+  author: rare-ivy
   id: 1730624053
   tags: ["TikTok marketing","brand visibility","social media strategy","engagement","digital marketing"]
   categories: ["Digital Marketing","Social Media Marketing","Brand Strategy"]

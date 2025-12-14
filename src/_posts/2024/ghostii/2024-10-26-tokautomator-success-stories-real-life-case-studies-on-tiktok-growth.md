@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "TokAutomator Success Stories: Real-Life Case Studies on TikTok Growth"
-  excerpt: "Discover how TokAutomator is revolutionizing TikTok growth with real-life success stories and actionable insights on maximizing your account’s potential."
-  author: alex
+  description: "Discover how TokAutomator is revolutionizing TikTok growth with real-life success stories and actionable insights on maximizing your account’s potential."
+  author: rare-ivy
   id: 1730019253
   tags: ["TikTok growth","TokAutomator","social media automation"]
   categories: ["Social Media Marketing","TikTok Growth","Digital Marketing Strategies"]

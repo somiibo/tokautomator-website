@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "The Future of TikTok Marketing: An In-Depth Look at TokAutomator"
-  excerpt: "Discover how TokAutomator can revolutionize your TikTok marketing strategy by automating your activities to gain more followers, likes, and views."
-  author: alex
+  description: "Discover how TokAutomator can revolutionize your TikTok marketing strategy by automating your activities to gain more followers, likes, and views."
+  author: rare-ivy
   id: 1720342450
   tags: ["TikTok marketing","TokAutomator","grow TikTok followers","TikTok automation","TikTok growth service"]
   categories: ["Social Media Marketing","Digital Marketing","TikTok Growth"]

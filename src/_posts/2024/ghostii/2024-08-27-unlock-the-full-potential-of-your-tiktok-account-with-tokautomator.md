@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Unlock the Full Potential of Your TikTok Account with TokAutomator"
-  excerpt: "Discover how TokAutomator can help you automate your TikTok activity and grow your account with more followers, likes, and views."
-  author: alex
+  description: "Discover how TokAutomator can help you automate your TikTok activity and grow your account with more followers, likes, and views."
+  author: christina-hill
   id: 1724835248
   tags: ["TikTok growth","automate TikTok","increase TikTok followers","TokAutomator tips"]
   categories: ["TikTok Marketing","Social Media Automation","Digital Growth Strategies"]

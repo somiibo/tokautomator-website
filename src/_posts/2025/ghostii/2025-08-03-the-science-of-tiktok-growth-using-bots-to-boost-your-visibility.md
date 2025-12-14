@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "The Science of TikTok Growth: Using Bots to Boost Your Visibility"
-  excerpt: "Discover how TikTok bots can enhance your visibility and engagement, and learn effective strategies for ethical use in this comprehensive guide."
-  author: alex
+  description: "Discover how TikTok bots can enhance your visibility and engagement, and learn effective strategies for ethical use in this comprehensive guide."
+  author: rare-ivy
   id: 1754297645
   tags: ["TikTok growth","TikTok bots","social media automation","increase TikTok followers","TikTok marketing strategies"]
   categories: ["Social Media Marketing","Digital Marketing","TikTok Strategies"]

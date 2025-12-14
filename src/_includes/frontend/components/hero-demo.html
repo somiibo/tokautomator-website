@@ -1,0 +1,382 @@
+<style>
+  .hero-demo-stat-change {
+    animation: heroStatPop 0.5s ease;
+  }
+  @keyframes heroStatPop {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.3); color: var(--bs-success); }
+    100% { transform: scale(1); }
+  }
+  .hero-demo-event {
+    opacity: 1;
+    transform: translateX(0);
+  }
+  .hero-demo-event.entering {
+    animation: heroEventEnter 0.3s ease forwards;
+  }
+  @keyframes heroEventEnter {
+    0% { opacity: 0; transform: translateX(-10px); }
+    100% { opacity: 1; transform: translateX(0); }
+  }
+  .hero-demo-pulse {
+    animation: heroPulse 2s infinite;
+  }
+  @keyframes heroPulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.4; }
+  }
+  .hero-demo-bar {
+    transition: width 0.5s ease;
+  }
+  .hero-demo-video-highlight {
+    animation: heroVideoPulse 0.6s ease;
+  }
+  @keyframes heroVideoPulse {
+    0% { background-color: rgba(var(--bs-success-rgb), 0); }
+    50% { background-color: rgba(var(--bs-success-rgb), 0.3); }
+    100% { background-color: rgba(var(--bs-success-rgb), 0); }
+  }
+  .hero-demo-toggle {
+    width: 72px;
+    height: 38px;
+    background: var(--bs-secondary-bg);
+    border-radius: 19px;
+    position: relative;
+    cursor: pointer;
+    transition: background 0.3s ease;
+    border: 2px solid var(--bs-border-color);
+  }
+  .hero-demo-toggle.active {
+    background: var(--bs-success);
+    border-color: var(--bs-success);
+  }
+  .hero-demo-toggle::after {
+    content: '';
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background: white;
+    border-radius: 50%;
+    top: 2px;
+    left: 2px;
+    transition: transform 0.3s ease;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+  }
+  .hero-demo-toggle.active::after {
+    transform: translateX(34px);
+  }
+  .hero-demo-toggle.active {
+    animation: heroTurboGlow 1s ease infinite;
+  }
+  @keyframes heroTurboGlow {
+    0%, 100% { box-shadow: 0 0 0 0 rgba(var(--bs-success-rgb), 0.4); }
+    50% { box-shadow: 0 0 0 6px rgba(var(--bs-success-rgb), 0); }
+  }
+</style>
+
+<!-- Hidden icon templates for JS to clone -->
+<template id="hero-demo-icon-user-plus">{% uj_icon "user-plus", "smaller" %}</template>
+<template id="hero-demo-icon-heart">{% uj_icon "heart", "smaller" %}</template>
+<template id="hero-demo-icon-eye">{% uj_icon "eye", "smaller" %}</template>
+<template id="hero-demo-icon-comment">{% uj_icon "comment", "smaller" %}</template>
+<template id="hero-demo-icon-share">{% uj_icon "share", "smaller" %}</template>
+<template id="hero-demo-icon-music">{% uj_icon "music", "smaller" %}</template>
+
+<div class="bg-glassy rounded-4 shadow-lg overflow-hidden">
+  <!-- Header -->
+  <div class="d-flex align-items-center gap-2 px-3 py-2 border-bottom border-white border-opacity-10">
+    <span class="rounded-circle d-inline-block" style="width:12px;height:12px;background:#ff5f56"></span>
+    <span class="rounded-circle d-inline-block" style="width:12px;height:12px;background:#ffbd2e"></span>
+    <span class="rounded-circle d-inline-block" style="width:12px;height:12px;background:#27c93f"></span>
+    <span class="flex-grow-1 text-center small text-body-secondary fw-medium">{{ site.brand.name }} Dashboard</span>
+  </div>
+
+  <!-- Main content -->
+  <div class="d-flex flex-row">
+    <!-- Phone mockup -->
+    <div class="p-3 border-end border-white border-opacity-10" style="width: 200px; flex-shrink: 0;">
+      <div class="bg-body-tertiary rounded-4 p-1 shadow">
+        <div class="bg-body rounded-3 overflow-hidden">
+          <!-- Status bar -->
+          <div class="d-flex justify-content-between align-items-center px-2 py-1 smaller text-body-secondary">
+            <span>9:41</span>
+            <div class="d-flex gap-1">
+              {% uj_icon "wifi", "smaller" %}
+              {% uj_icon "battery-full", "smaller" %}
+            </div>
+          </div>
+          <!-- TikTok profile content -->
+          <div class="px-2 py-3 text-center" id="hero-demo-phone-content">
+            <!-- Profile -->
+            <div class="mb-2">
+              <div class="rounded-circle bg-primary bg-opacity-10 d-inline-flex align-items-center justify-content-center mx-auto mb-1" style="width: 40px; height: 40px;">
+                <span class="small fw-bold text-primary">Y</span>
+              </div>
+              <div class="d-flex align-items-center justify-content-center gap-1">
+                <span class="smaller fw-bold">@yourprofile</span>
+                <span class="text-primary">{% uj_icon "badge-check", "smaller" %}</span>
+              </div>
+              <p class="smaller text-body-secondary mb-0">TikTok Creator</p>
+            </div>
+            <!-- Stats row -->
+            <div class="d-flex justify-content-center gap-3 mb-2">
+              <div class="text-center">
+                <div class="smaller fw-bold" id="hero-demo-like-count">0</div>
+                <div class="text-body-secondary" style="font-size:0.55rem">Likes</div>
+              </div>
+              <div class="text-center">
+                <div class="smaller fw-bold" id="hero-demo-follower-count">0</div>
+                <div class="text-body-secondary" style="font-size:0.55rem">Followers</div>
+              </div>
+              <div class="text-center">
+                <div class="smaller fw-bold" id="hero-demo-view-count">0</div>
+                <div class="text-body-secondary" style="font-size:0.55rem">Views</div>
+              </div>
+            </div>
+            <!-- Video thumbnails grid -->
+            <div class="d-flex gap-1" id="hero-demo-video">
+              <div class="flex-fill bg-body-secondary rounded" style="height: 50px;"></div>
+              <div class="flex-fill bg-body-secondary rounded" style="height: 50px;"></div>
+              <div class="flex-fill bg-body-secondary rounded" style="height: 50px;"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Analytics panel -->
+    <div class="flex-grow-1 d-flex flex-column">
+      <!-- Toggle row -->
+      <div class="d-flex flex-column align-items-center justify-content-center px-3 py-3 border-bottom border-white border-opacity-10">
+        <div class="d-flex align-items-center gap-2 mb-2">
+          <span class="hero-demo-pulse rounded-circle bg-success d-inline-block" style="width:8px;height:8px"></span>
+          <span class="small fw-semibold">TikTok Bot</span>
+          <span class="badge bg-success smaller" id="hero-demo-mode-label">TURBO</span>
+        </div>
+        <div class="hero-demo-toggle active" id="hero-demo-toggle" title="Toggle turbo mode"></div>
+      </div>
+
+      <!-- Stats row -->
+      <div class="d-flex border-bottom border-white border-opacity-10">
+        <div class="flex-fill text-center py-2 border-end border-white border-opacity-10">
+          <div class="fs-5 fw-bold text-primary" id="hero-demo-followers">0</div>
+          <div class="smaller text-body-secondary">Followers</div>
+        </div>
+        <div class="flex-fill text-center py-2 border-end border-white border-opacity-10">
+          <div class="fs-5 fw-bold text-danger" id="hero-demo-likes">0</div>
+          <div class="smaller text-body-secondary">Likes</div>
+        </div>
+        <div class="flex-fill text-center py-2">
+          <div class="fs-5 fw-bold text-info" id="hero-demo-views">0</div>
+          <div class="smaller text-body-secondary">Views</div>
+        </div>
+      </div>
+
+      <!-- Engagement bar -->
+      <div class="px-3 py-2 border-bottom border-white border-opacity-10">
+        <div class="d-flex justify-content-between align-items-center mb-1">
+          <span class="smaller text-body-secondary">Engagement Rate</span>
+          <span class="smaller fw-bold text-success" id="hero-demo-engagement">0%</span>
+        </div>
+        <div class="progress" style="height: 6px;">
+          <div class="progress-bar bg-success hero-demo-bar" id="hero-demo-engagement-bar" style="width: 0%"></div>
+        </div>
+      </div>
+
+      <!-- Live activity feed -->
+      <div class="px-3 py-2 flex-grow-1 d-flex flex-column">
+        <div class="d-flex align-items-center gap-2 mb-2">
+          <span class="smaller text-body-secondary fw-medium">Live Activity</span>
+        </div>
+        <div id="hero-demo-feed" class="flex-grow-1 overflow-hidden d-flex flex-column gap-1"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+(function() {
+  const followersEl = document.getElementById('hero-demo-followers');
+  const likesEl = document.getElementById('hero-demo-likes');
+  const viewsEl = document.getElementById('hero-demo-views');
+  const engagementEl = document.getElementById('hero-demo-engagement');
+  const engagementBarEl = document.getElementById('hero-demo-engagement-bar');
+  const feedEl = document.getElementById('hero-demo-feed');
+  const toggleEl = document.getElementById('hero-demo-toggle');
+  const modeLabelEl = document.getElementById('hero-demo-mode-label');
+  const videoEl = document.getElementById('hero-demo-video');
+  // Phone stats elements
+  const phoneLikeCountEl = document.getElementById('hero-demo-like-count');
+  const phoneFollowerCountEl = document.getElementById('hero-demo-follower-count');
+  const phoneViewCountEl = document.getElementById('hero-demo-view-count');
+
+  // Icon templates
+  const iconTemplates = {
+    'user-plus': document.getElementById('hero-demo-icon-user-plus'),
+    'heart': document.getElementById('hero-demo-icon-heart'),
+    'eye': document.getElementById('hero-demo-icon-eye'),
+    'comment': document.getElementById('hero-demo-icon-comment'),
+    'share': document.getElementById('hero-demo-icon-share'),
+    'music': document.getElementById('hero-demo-icon-music')
+  };
+
+  let followers = 0;
+  let likes = 0;
+  let views = 0;
+  let comments = 0;
+  let turboMode = true;
+
+  const usernames = ['@dancequeen', '@fitnessguru', '@foodielove', '@techjunkie', '@fashionista', '@comedyking', '@musicmaker', '@travelbug', '@gamerzone', '@beautybliss', '@petlover', '@diymaster', '@sportsfan', '@booknerd', '@artistry'];
+  const actions = ['followed you', 'liked your video', 'viewed your video', 'commented', 'shared your video', 'dueted your video'];
+  const hashtags = ['#fyp', '#viral', '#trending', '#foryou', '#tiktok', '#dance', '#funny', '#tutorial'];
+
+  function formatNumber(num) {
+    if (num >= 1000000) return (num / 1000000).toFixed(1) + 'M';
+    if (num >= 1000) return (num / 1000).toFixed(1) + 'K';
+    return num.toString();
+  }
+
+  function updateStats() {
+    const totalEngagements = likes + comments;
+    const engagementRate = views > 0 ? Math.min(((totalEngagements / views) * 100), 25).toFixed(1) : 0;
+    engagementEl.textContent = engagementRate + '%';
+    engagementBarEl.style.width = Math.min(engagementRate * 4, 100) + '%';
+    // Update phone stats
+    phoneLikeCountEl.textContent = formatNumber(likes);
+    phoneFollowerCountEl.textContent = formatNumber(followers);
+    phoneViewCountEl.textContent = formatNumber(views);
+  }
+
+  function animateStat(el) {
+    el.classList.remove('hero-demo-stat-change');
+    void el.offsetWidth;
+    el.classList.add('hero-demo-stat-change');
+  }
+
+  function highlightVideo() {
+    // Pick a random video thumbnail to highlight
+    const videos = videoEl.children;
+    if (videos.length > 0) {
+      const randomVideo = videos[Math.floor(Math.random() * videos.length)];
+      randomVideo.classList.remove('hero-demo-video-highlight');
+      void randomVideo.offsetWidth;
+      randomVideo.classList.add('hero-demo-video-highlight');
+    }
+  }
+
+  function getIcon(name) {
+    const template = iconTemplates[name];
+    return template ? template.content.cloneNode(true) : document.createTextNode('');
+  }
+
+  function addFeedItem(username, action, iconName, colorClass) {
+    const el = document.createElement('div');
+    el.className = 'hero-demo-event d-flex align-items-center gap-2 entering';
+
+    const iconWrapper = document.createElement('div');
+    iconWrapper.className = 'rounded-circle bg-body-tertiary d-flex align-items-center justify-content-center flex-shrink-0 ' + colorClass;
+    iconWrapper.style.cssText = 'width:20px;height:20px';
+    iconWrapper.appendChild(getIcon(iconName));
+
+    const textEl = document.createElement('div');
+    textEl.className = 'flex-grow-1 smaller text-body-secondary text-truncate';
+    textEl.innerHTML = '<strong class="text-body">' + username + '</strong> ' + action;
+
+    el.appendChild(iconWrapper);
+    el.appendChild(textEl);
+
+    feedEl.insertBefore(el, feedEl.firstChild);
+    if (feedEl.children.length > 5) {
+      feedEl.removeChild(feedEl.lastChild);
+    }
+
+    setTimeout(function() {
+      el.classList.remove('entering');
+    }, 300);
+  }
+
+  function addActivity() {
+    const username = usernames[Math.floor(Math.random() * usernames.length)];
+    const rand = Math.random();
+    let action, iconName, colorClass;
+
+    if (rand < 0.25) {
+      // New follower
+      followers++;
+      followersEl.textContent = formatNumber(followers);
+      animateStat(followersEl);
+      action = 'followed you';
+      iconName = 'user-plus';
+      colorClass = 'text-primary';
+    } else if (rand < 0.50) {
+      // Like
+      const likeAmount = Math.floor(Math.random() * 5) + 1;
+      likes += likeAmount;
+      likesEl.textContent = formatNumber(likes);
+      animateStat(likesEl);
+      action = 'liked your video';
+      iconName = 'heart';
+      colorClass = 'text-danger';
+      highlightVideo();
+    } else if (rand < 0.70) {
+      // View
+      const viewAmount = Math.floor(Math.random() * 20) + 5;
+      views += viewAmount;
+      viewsEl.textContent = formatNumber(views);
+      animateStat(viewsEl);
+      action = 'viewed your video';
+      iconName = 'eye';
+      colorClass = 'text-info';
+      highlightVideo();
+    } else if (rand < 0.85) {
+      // Comment
+      comments++;
+      const hashtag = hashtags[Math.floor(Math.random() * hashtags.length)];
+      action = 'commented: "' + hashtag + ' 🔥"';
+      iconName = 'comment';
+      colorClass = 'text-warning';
+      highlightVideo();
+    } else {
+      // Share
+      action = 'shared your video';
+      iconName = 'share';
+      colorClass = 'text-success';
+    }
+
+    addFeedItem(username, action, iconName, colorClass);
+    updateStats();
+
+    const baseDelay = turboMode ? 150 : 1200;
+    const variance = turboMode ? 250 : 800;
+    const delay = baseDelay + Math.random() * variance;
+    setTimeout(addActivity, delay);
+  }
+
+  let clickCount = 0;
+
+  toggleEl.addEventListener('click', function() {
+    turboMode = !turboMode;
+    toggleEl.classList.toggle('active', turboMode);
+    modeLabelEl.textContent = turboMode ? 'TURBO' : 'NORMAL';
+    modeLabelEl.classList.toggle('bg-success', turboMode);
+    modeLabelEl.classList.toggle('bg-secondary', !turboMode);
+    clickCount++;
+
+    if (clickCount == 2) {
+      Manager.webManager.uj().showExitPopup({
+        title: 'This is just a preview!',
+        message: 'Download the free app to automate unlimited TikTok growth.',
+        offerTitle: 'Full Control',
+        offerDescription: 'Configure followers, likes, views, targeting, and more with the desktop app.',
+        okButton: {
+          text: 'Download Free',
+          link: 'https://somiibo.com/download',
+        },
+        dismissText: 'No thanks',
+      });
+    }
+  });
+
+  setTimeout(addActivity, 500);
+})();
+</script>

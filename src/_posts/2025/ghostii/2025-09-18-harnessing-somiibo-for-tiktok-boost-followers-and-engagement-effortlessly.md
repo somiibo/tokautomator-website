@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Harnessing Somiibo for TikTok: Boost Followers and Engagement Effortlessly"
-  excerpt: "Discover how to effortlessly boost your TikTok followers and engagement with Somiibo, a powerful automation tool that streamlines your social media growth."
-  author: alex
+  description: "Discover how to effortlessly boost your TikTok followers and engagement with Somiibo, a powerful automation tool that streamlines your social media growth."
+  author: christina-hill
   id: 1758272049
   tags: ["TikTok automation","Somiibo TikTok bot","increase TikTok followers","social media growth","TikTok engagement","automate TikTok activity"]
   categories: ["Social Media Marketing","TikTok Growth Strategies","Digital Marketing Tools"]

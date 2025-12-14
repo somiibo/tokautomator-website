@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Why Automation is Essential for TikTok Growth in 2024"
-  excerpt: "Discover why automation is crucial for TikTok growth in 2024 and how tools like Somiibo TikTok Bot can help you gain more followers, likes, and views effortlessly."
-  author: alex
+  description: "Discover why automation is crucial for TikTok growth in 2024 and how tools like Somiibo TikTok Bot can help you gain more followers, likes, and views effortlessly."
+  author: alex-raeburn
   id: 1725267248
   tags: ["TikTok automation","Somiibo TikTok Bot","TikTok growth 2024","TikTok marketing"]
   categories: ["Social Media Marketing","TikTok Growth","Automation Tools"]

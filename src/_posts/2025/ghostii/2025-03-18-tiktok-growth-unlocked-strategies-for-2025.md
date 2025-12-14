@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "TikTok Growth Unlocked: Strategies for 2025"
-  excerpt: "Discover effective strategies and automation tools to skyrocket your TikTok growth in 2025, increasing followers, likes, and engagement effortlessly."
-  author: alex
+  description: "Discover effective strategies and automation tools to skyrocket your TikTok growth in 2025, increasing followers, likes, and engagement effortlessly."
+  author: alex-raeburn
   id: 1742374445
   tags: ["TikTok growth","Somiibo bot","TikTok marketing","social media strategy","automation tools"]
   categories: ["Social Media Marketing","Digital Marketing","TikTok Growth Strategies"]

@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "The Ultimate Guide to TikTok Marketing: Strategies for 2024"
-  excerpt: "Discover essential strategies for TikTok marketing in 2024 to boost your brand's presence, engage with your audience, and maximize your ROI."
-  author: alex
+  description: "Discover essential strategies for TikTok marketing in 2024 to boost your brand's presence, engage with your audience, and maximize your ROI."
+  author: christina-hill
   id: 1725008048
   tags: ["TikTok marketing","TikTok strategies","social media growth","TikTok algorithm","influencer marketing"]
   categories: ["Social Media Marketing","Digital Marketing","TikTok Strategies"]

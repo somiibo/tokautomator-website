@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "The Ultimate Guide to Using the Somiibo TikTok Bot to Boost Your Account"
-  excerpt: "Learn how to efficiently grow your TikTok account using the Somiibo TikTok Bot with our ultimate guide, packed with setup instructions, tips, and troubleshooting advice."
-  author: alex
+  description: "Learn how to efficiently grow your TikTok account using the Somiibo TikTok Bot with our ultimate guide, packed with setup instructions, tips, and troubleshooting advice."
+  author: rare-ivy
   id: 1721465649
   tags: ["TikTok bot","Somiibo","grow TikTok followers","TikTok automation","increase TikTok likes"]
   categories: ["TikTok Marketing","Social Media Growth","Digital Marketing"]

@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "The Ultimate Guide to TikTok Automation: Tips, Tools, and Strategies for 2024"
-  excerpt: "Discover the ultimate guide to TikTok automation in 2024, including tips, tools, and strategies to grow your account with ease."
-  author: alex
+  description: "Discover the ultimate guide to TikTok automation in 2024, including tips, tools, and strategies to grow your account with ease."
+  author: christina-hill
   id: 1718873648
   tags: ["TikTok automation","TikTok growth tools","Somiibo TikTok bot","TikTok marketing strategies"]
   categories: ["Social Media Marketing","TikTok Growth","Digital Marketing"]

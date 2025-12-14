@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "The Comprehensive Guide to TikTok Marketing: Strategies for 2024 and Beyond"
-  excerpt: "Discover essential TikTok marketing strategies for 2024 and beyond, and learn how TokAutomator can help you grow your account with ease."
-  author: alex
+  description: "Discover essential TikTok marketing strategies for 2024 and beyond, and learn how TokAutomator can help you grow your account with ease."
+  author: alex-raeburn
   id: 1720947248
   tags: ["TikTok marketing","TikTok growth","TikTok algorithm","social media strategy","TokAutomator"]
   categories: ["Social Media Marketing","Digital Marketing","TikTok Growth"]

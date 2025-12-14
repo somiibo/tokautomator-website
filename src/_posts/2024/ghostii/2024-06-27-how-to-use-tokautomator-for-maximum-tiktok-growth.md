@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "How to Use TokAutomator for Maximum TikTok Growth"
-  excerpt: "Discover how to maximize your TikTok growth with TokAutomator, a powerful tool designed to automate and enhance your TikTok activity for more followers, likes, and views."
-  author: alex
+  description: "Discover how to maximize your TikTok growth with TokAutomator, a powerful tool designed to automate and enhance your TikTok activity for more followers, likes, and views."
+  author: alex-raeburn
   id: 1719564848
   tags: ["TikTok growth","TokAutomator","TikTok automation","increase TikTok followers","TikTok marketing"]
   categories: ["Social Media Marketing","TikTok Growth","Digital Marketing Tools"]

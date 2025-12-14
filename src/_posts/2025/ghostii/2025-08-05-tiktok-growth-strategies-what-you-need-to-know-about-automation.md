@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "TikTok Growth Strategies: What You Need to Know About Automation"
-  excerpt: "Discover effective TikTok growth strategies with automation tools like Somiibo to enhance your account's engagement and reach."
-  author: alex
+  description: "Discover effective TikTok growth strategies with automation tools like Somiibo to enhance your account's engagement and reach."
+  author: christina-hill
   id: 1754470445
   tags: ["TikTok growth","automation tools","Somiibo","social media marketing"]
   categories: ["TikTok Marketing","Social Media Strategies","Automation Tools"]

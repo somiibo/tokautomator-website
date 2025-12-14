@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Mastering TikTok: A Comprehensive Guide to Automated Growth"
-  excerpt: "Discover how TokAutomator can revolutionize your TikTok strategy by automating your activity to gain more followers, likes, and views effortlessly."
-  author: alex
+  description: "Discover how TokAutomator can revolutionize your TikTok strategy by automating your activity to gain more followers, likes, and views effortlessly."
+  author: rare-ivy
   id: 1728809654
   tags: ["TikTok growth","automated TikTok","social media marketing","increase TikTok followers"]
   categories: ["Social Media Marketing","TikTok Growth","Digital Marketing Strategies"]

@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "TikTok Growth Unleashed: How to Maximize Your Reach with the Somiibo Bot"
-  excerpt: "Discover how to leverage the Somiibo TikTok bot to enhance your account's reach and engagement, while navigating TikTok's algorithm and ensuring safe automation practices."
-  author: alex
+  description: "Discover how to leverage the Somiibo TikTok bot to enhance your account's reach and engagement, while navigating TikTok's algorithm and ensuring safe automation practices."
+  author: rare-ivy
   id: 1729760053
   tags: ["TikTok growth","Somiibo bot","automate TikTok","increase TikTok followers","TikTok marketing"]
   categories: ["Social Media Marketing","Digital Marketing","TikTok Growth"]

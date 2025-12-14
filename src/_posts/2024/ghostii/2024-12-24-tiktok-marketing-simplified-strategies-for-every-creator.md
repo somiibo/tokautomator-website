@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "TikTok Marketing Simplified: Strategies for Every Creator"
-  excerpt: "Discover effective TikTok marketing strategies to boost your visibility and engagement, perfect for every creator looking to grow their account."
-  author: alex
+  description: "Discover effective TikTok marketing strategies to boost your visibility and engagement, perfect for every creator looking to grow their account."
+  author: alex-raeburn
   id: 1735116846
   tags: ["TikTok marketing","social media growth","content creation","engagement strategies","digital marketing"]
   categories: ["Social Media Marketing","Digital Marketing","Content Creation"]

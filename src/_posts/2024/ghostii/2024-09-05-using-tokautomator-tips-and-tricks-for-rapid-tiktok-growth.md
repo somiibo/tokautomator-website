@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Using TokAutomator: Tips and Tricks for Rapid TikTok Growth"
-  excerpt: "Discover how to use TokAutomator for rapid TikTok growth with our step-by-step guide and effective tips to gain more followers, likes, and views."
-  author: alex
+  description: "Discover how to use TokAutomator for rapid TikTok growth with our step-by-step guide and effective tips to gain more followers, likes, and views."
+  author: rare-ivy
   id: 1725612853
   tags: ["TikTok growth","TokAutomator guide","increase TikTok followers","TikTok marketing tips"]
   categories: ["Social Media Marketing","TikTok Growth","Digital Marketing Tools"]

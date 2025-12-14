@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Growing Your TikTok Audience: Tips Beyond Automation"
-  excerpt: "Learn effective strategies for growing your TikTok audience authentically, beyond automation, to increase engagement and build a loyal community."
-  author: alex
+  description: "Learn effective strategies for growing your TikTok audience authentically, beyond automation, to increase engagement and build a loyal community."
+  author: christina-hill
   id: 1727945653
   tags: ["TikTok growth","organic reach","engaging content","TikTok trends","social media marketing"]
   categories: ["TikTok Marketing","Social Media Growth","Digital Marketing"]

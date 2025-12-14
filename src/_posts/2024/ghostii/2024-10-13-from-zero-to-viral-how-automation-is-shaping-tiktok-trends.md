@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "From Zero to Viral: How Automation is Shaping TikTok Trends"
-  excerpt: "Explore how automation is revolutionizing TikTok trends, helping users grow their accounts from zero to viral effortlessly."
-  author: alex
+  description: "Explore how automation is revolutionizing TikTok trends, helping users grow their accounts from zero to viral effortlessly."
+  author: christina-hill
   id: 1728896053
   tags: ["TikTok automation","viral trends","social media growth","TikTok marketing"]
   categories: ["Social Media Marketing","Digital Marketing","TikTok Trends"]

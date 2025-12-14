@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "How Automation Tools Like TokAutomator Can Skyrocket Your TikTok Engagement"
-  excerpt: "Discover how automation tools like TokAutomator can skyrocket your TikTok engagement, helping you gain more followers, likes, and views effortlessly."
-  author: alex
+  description: "Discover how automation tools like TokAutomator can skyrocket your TikTok engagement, helping you gain more followers, likes, and views effortlessly."
+  author: christina-hill
   id: 1721984048
   tags: ["TikTok automation","increase TikTok engagement","TokAutomator benefits","grow TikTok followers","TikTok marketing tools"]
   categories: ["Social Media Marketing","TikTok Growth","Digital Marketing Tools"]

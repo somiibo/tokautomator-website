@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Exploring TikTok Growth: Can Automation Enhance Your Reach?"
-  excerpt: "Discover how automation can enhance your TikTok reach and learn about the ethical implications of using such tools to grow your account."
-  author: alex
+  description: "Discover how automation can enhance your TikTok reach and learn about the ethical implications of using such tools to grow your account."
+  author: christina-hill
   id: 1750150444
   tags: ["TikTok growth","automation tools","social media marketing","TikTok strategy"]
   categories: ["Social Media Marketing","TikTok Strategies","Digital Marketing"]

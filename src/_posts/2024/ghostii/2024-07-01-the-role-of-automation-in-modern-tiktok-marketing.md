@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "The Role of Automation in Modern TikTok Marketing"
-  excerpt: "Explore the transformative role of automation in modern TikTok marketing and discover strategies to maximize your account's growth using advanced tools."
-  author: alex
+  description: "Explore the transformative role of automation in modern TikTok marketing and discover strategies to maximize your account's growth using advanced tools."
+  author: christina-hill
   id: 1719910450
   tags: ["TikTok automation","TikTok marketing","grow TikTok followers"]
   categories: ["Social Media Marketing","Digital Marketing","TikTok Strategy"]

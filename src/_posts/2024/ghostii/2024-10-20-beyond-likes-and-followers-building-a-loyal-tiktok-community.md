@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Beyond Likes and Followers: Building a Loyal TikTok Community"
-  excerpt: "Discover how to build a loyal TikTok community with strategies that go beyond likes and followers, and learn how to leverage the platform's features for sustained growth."
-  author: alex
+  description: "Discover how to build a loyal TikTok community with strategies that go beyond likes and followers, and learn how to leverage the platform's features for sustained growth."
+  author: rare-ivy
   id: 1729500853
   tags: ["TikTok community","engagement strategies","content creation"]
   categories: ["Social Media Marketing","TikTok Growth","Content Strategy"]

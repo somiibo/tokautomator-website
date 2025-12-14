@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "How to Boost Your TikTok Engagement Using Automated Tools"
-  excerpt: "Learn how to boost your TikTok engagement using automated tools like Somiibo to gain more followers, likes, and views effortlessly."
-  author: alex
+  description: "Learn how to boost your TikTok engagement using automated tools like Somiibo to gain more followers, likes, and views effortlessly."
+  author: christina-hill
   id: 1727168054
   tags: ["TikTok engagement","automated tools for TikTok","Somiibo TikTok Bot","TikTok growth","increase TikTok followers"]
   categories: ["TikTok Marketing","Social Media Automation","Digital Marketing Tools"]

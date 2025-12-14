@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Mastering TikTok Marketing: Tips for 2024"
-  excerpt: "Learn how to master TikTok marketing in 2024 with effective strategies, tools, and tips to boost your brand's presence and engagement on the platform."
-  author: alex
+  description: "Learn how to master TikTok marketing in 2024 with effective strategies, tools, and tips to boost your brand's presence and engagement on the platform."
+  author: rare-ivy
   id: 1718614448
   tags: ["TikTok marketing","social media strategy","TikTok trends","Somiibo TikTok Bot","content engagement"]
   categories: ["Social Media Marketing","Digital Marketing","TikTok Strategy"]

@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Leveraging Technology: A Deep Dive into TikTok Automation"
-  excerpt: "Discover how TikTok automation can enhance your social media strategy by using tools like the Somiibo Bot to grow your account efficiently."
-  author: alex
+  description: "Discover how TikTok automation can enhance your social media strategy by using tools like the Somiibo Bot to grow your account efficiently."
+  author: rare-ivy
   id: 1750755244
   tags: ["TikTok automation","social media growth","Somiibo Bot","TikTok followers","automated TikTok growth"]
   categories: ["Social Media Marketing","TikTok Growth","Digital Marketing"]

@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Innovative TikTok Marketing Strategies: Beyond Automation"
-  excerpt: "Explore innovative TikTok marketing strategies that go beyond automation to effectively engage audiences and boost brand visibility."
-  author: alex
+  description: "Explore innovative TikTok marketing strategies that go beyond automation to effectively engage audiences and boost brand visibility."
+  author: christina-hill
   id: 1729328053
   tags: ["TikTok marketing","social media strategy","content creation","audience engagement","TikTok trends"]
   categories: ["Digital Marketing","Social Media","Content Strategy"]

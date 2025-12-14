@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Exploring the Impact of TikTok Automation on Content Creators"
-  excerpt: "Discover how TikTok automation is transforming content creation, enhancing engagement, and what it means for the future of digital marketing."
-  author: alex
+  description: "Discover how TikTok automation is transforming content creation, enhancing engagement, and what it means for the future of digital marketing."
+  author: alex-raeburn
   id: 1729414454
   tags: ["TikTok automation","content creators","social media growth","digital marketing","engagement"]
   categories: ["Social Media Marketing","Digital Marketing","Content Creation"]

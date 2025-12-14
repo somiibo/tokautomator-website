@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Innovative TikTok Growth Techniques: Automate Your Success"
-  excerpt: "Discover cutting-edge TikTok growth techniques and how automation with tools like Somiibo can skyrocket your followers and engagement, ensuring your TikTok success."
-  author: alex
+  description: "Discover cutting-edge TikTok growth techniques and how automation with tools like Somiibo can skyrocket your followers and engagement, ensuring your TikTok success."
+  author: rare-ivy
   id: 1755766449
   tags: ["TikTok growth","automation tools","Somiibo bot","increase followers","engagement boost"]
   categories: ["Social Media Marketing","TikTok Growth","Digital Marketing Automation"]

@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "The Intersection of Creativity and Automation in TikTok Marketing"
-  excerpt: "Explore how the fusion of creativity and automation is revolutionizing TikTok marketing strategies, driving engagement and growth."
-  author: alex
+  description: "Explore how the fusion of creativity and automation is revolutionizing TikTok marketing strategies, driving engagement and growth."
+  author: rare-ivy
   id: 1736844844
   tags: ["TikTok marketing","creative automation","social media growth","TikTok engagement"]
   categories: ["Digital Marketing","Social Media","Tech Innovations"]

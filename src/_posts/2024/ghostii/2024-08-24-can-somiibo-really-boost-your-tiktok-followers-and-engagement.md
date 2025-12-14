@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Can Somiibo Really Boost Your TikTok Followers and Engagement?"
-  excerpt: "Discover how the Somiibo TikTok bot can help boost your followers and engagement, and learn tips for maximizing your TikTok performance."
-  author: alex
+  description: "Discover how the Somiibo TikTok bot can help boost your followers and engagement, and learn tips for maximizing your TikTok performance."
+  author: christina-hill
   id: 1724576047
   tags: ["TikTok growth","Somiibo","TikTok bot","increase TikTok followers"]
   categories: ["TikTok Marketing","Social Media Growth","Digital Marketing"]

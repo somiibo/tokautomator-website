@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "How to Skyrocket Your TikTok Engagement with TokAutomator"
-  excerpt: "Learn how to skyrocket your TikTok engagement using TokAutomator with this comprehensive guide, featuring step-by-step instructions, tips, and future trends in TikTok marketing."
-  author: alex
+  description: "Learn how to skyrocket your TikTok engagement using TokAutomator with this comprehensive guide, featuring step-by-step instructions, tips, and future trends in TikTok marketing."
+  author: rare-ivy
   id: 1719219249
   tags: ["TikTok engagement","TokAutomator","TikTok growth","TikTok marketing"]
   categories: ["Social Media Marketing","TikTok Growth","Digital Marketing"]

@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "TikTok Marketing Mastery: Navigating the Dynamics of Social Growth"
-  excerpt: "Explore the dynamic world of TikTok marketing and discover strategies for mastering social growth through innovative tools and techniques."
-  author: alex
+  description: "Explore the dynamic world of TikTok marketing and discover strategies for mastering social growth through innovative tools and techniques."
+  author: alex-raeburn
   id: 1728723254
   tags: ["TikTok marketing","social media growth","TikTok automation","Somiibo TikTok bot","online engagement"]
   categories: ["Social Media Marketing","Digital Marketing Strategies","Growth Hacking"]

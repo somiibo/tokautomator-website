@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "From Ordinary to Extraordinary: Transform Your TikTok Account with TokAutomator"
-  excerpt: "Discover how TokAutomator can transform your TikTok account into a powerhouse of followers, likes, and views with automated growth strategies."
-  author: alex
+  description: "Discover how TokAutomator can transform your TikTok account into a powerhouse of followers, likes, and views with automated growth strategies."
+  author: rare-ivy
   id: 1719478448
   tags: ["TikTok growth","TokAutomator","increase TikTok followers","automate TikTok activity","TikTok marketing"]
   categories: ["TikTok Marketing","Social Media Growth","Influencer Marketing"]

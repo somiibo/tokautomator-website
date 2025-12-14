@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Understanding TikTok Growth: How Automation Can Help"
-  excerpt: "Discover how TikTok automation with TokAutomator can enhance your social media strategy by increasing followers, likes, and views efficiently."
-  author: alex
+  description: "Discover how TikTok automation with TokAutomator can enhance your social media strategy by increasing followers, likes, and views efficiently."
+  author: alex-raeburn
   id: 1761900845
   tags: ["TikTok growth","automation tools","social media strategy","TokAutomator"]
   categories: ["Social Media Marketing","Automation Tools","TikTok Strategies"]

@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "How Can Somiibo Revolutionize Your TikTok Strategy?"
-  excerpt: "Discover how Somiibo can revolutionize your TikTok strategy by automating your activities to gain more followers, likes, and views effortlessly."
-  author: alex
+  description: "Discover how Somiibo can revolutionize your TikTok strategy by automating your activities to gain more followers, likes, and views effortlessly."
+  author: christina-hill
   id: 1726908855
   tags: ["TikTok growth","Somiibo","TikTok automation","increase TikTok followers","TikTok marketing"]
   categories: ["TikTok Marketing","Social Media Automation","Digital Marketing"]

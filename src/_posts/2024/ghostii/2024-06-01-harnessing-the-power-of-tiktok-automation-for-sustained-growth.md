@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Harnessing the Power of TikTok Automation for Sustained Growth"
-  excerpt: "Learn how TokAutomator's TikTok automation service can help you grow your TikTok account by increasing followers, likes, and views effortlessly."
-  author: alex
+  description: "Learn how TokAutomator's TikTok automation service can help you grow your TikTok account by increasing followers, likes, and views effortlessly."
+  author: rare-ivy
   id: 1717318449
   tags: ["TikTok automation","grow TikTok followers","increase TikTok engagement","TikTok marketing tools","social media growth"]
   categories: ["Social Media Marketing","TikTok Growth","Digital Marketing"]

@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "TikTok Marketing Essentials: From Content Creation to Automation"
-  excerpt: "Learn the essentials of TikTok marketing, from content creation to leveraging automation tools, to drive engagement and grow your account."
-  author: alex
+  description: "Learn the essentials of TikTok marketing, from content creation to leveraging automation tools, to drive engagement and grow your account."
+  author: rare-ivy
   id: 1717404848
   tags: ["TikTok marketing","content creation","TikTok automation","grow TikTok account","engagement strategies"]
   categories: ["Social Media Marketing","Digital Marketing","TikTok Growth"]

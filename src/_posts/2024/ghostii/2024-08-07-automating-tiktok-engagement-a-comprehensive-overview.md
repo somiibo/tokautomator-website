@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Automating TikTok Engagement: A Comprehensive Overview"
-  excerpt: "Discover how to effectively boost your TikTok engagement using TokAutomator and the Somiibo TikTok Bot through automated strategies and best practices."
-  author: alex
+  description: "Discover how to effectively boost your TikTok engagement using TokAutomator and the Somiibo TikTok Bot through automated strategies and best practices."
+  author: alex-raeburn
   id: 1723107248
   tags: ["TikTok automation","TokAutomator","Somiibo TikTok Bot","grow TikTok followers","TikTok engagement"]
   categories: ["TikTok Marketing","Social Media Automation","Digital Marketing"]

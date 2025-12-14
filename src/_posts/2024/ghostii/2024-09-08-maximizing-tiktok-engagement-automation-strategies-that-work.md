@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Maximizing TikTok Engagement: Automation Strategies That Work"
-  excerpt: "Discover effective TikTok automation strategies using Somiibo TikTok Bot to maximize engagement, increase followers, likes, and views."
-  author: alex
+  description: "Discover effective TikTok automation strategies using Somiibo TikTok Bot to maximize engagement, increase followers, likes, and views."
+  author: alex-raeburn
   id: 1725872053
   tags: ["TikTok automation","Somiibo TikTok Bot","increase TikTok followers","maximize TikTok engagement"]
   categories: ["TikTok Marketing","Social Media Automation","Digital Marketing Strategies"]

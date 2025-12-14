@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Is Somiibo the Secret Weapon for Growing Your TikTok Account?"
-  excerpt: "Discover how Somiibo can be your ultimate secret weapon to grow your TikTok account effectively and efficiently."
-  author: alex
+  description: "Discover how Somiibo can be your ultimate secret weapon to grow your TikTok account effectively and efficiently."
+  author: rare-ivy
   id: 1726131253
   tags: ["TikTok growth","Somiibo TikTok Bot","automate TikTok activity","increase TikTok followers","TikTok marketing"]
   categories: ["TikTok Marketing","Social Media Growth","Digital Marketing Tools"]

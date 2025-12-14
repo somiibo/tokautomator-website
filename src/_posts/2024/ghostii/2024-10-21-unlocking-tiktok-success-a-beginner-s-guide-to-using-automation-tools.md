@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Unlocking TikTok Success: A Beginner's Guide to Using Automation Tools"
-  excerpt: "Discover how to leverage TikTok automation tools like the Somiibo Bot to boost your account growth and engagement effectively."
-  author: alex
+  description: "Discover how to leverage TikTok automation tools like the Somiibo Bot to boost your account growth and engagement effectively."
+  author: christina-hill
   id: 1729587254
   tags: ["TikTok automation","Somiibo","TikTok growth","social media tools"]
   categories: ["Social Media Marketing","TikTok Strategies","Digital Growth Tools"]

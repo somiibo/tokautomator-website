@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "How To Leverage TokAutomator For Explosive TikTok Growth"
-  excerpt: "Discover how TokAutomator can supercharge your TikTok growth, boosting followers, likes, and views through automated activity."
-  author: alex
+  description: "Discover how TokAutomator can supercharge your TikTok growth, boosting followers, likes, and views through automated activity."
+  author: alex-raeburn
   id: 1726476853
   tags: ["TikTok growth","TokAutomator","TikTok followers","automated TikTok activity","increase TikTok views"]
   categories: ["TikTok Marketing","Social Media Growth","Digital Marketing"]

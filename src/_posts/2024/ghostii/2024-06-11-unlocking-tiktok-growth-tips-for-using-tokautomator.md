@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Unlocking TikTok Growth: Tips for Using TokAutomator"
-  excerpt: "Learn how to supercharge your TikTok growth with TokAutomator, the leading service for automating your TikTok activity and boosting your followers, likes, and views."
-  author: alex
+  description: "Learn how to supercharge your TikTok growth with TokAutomator, the leading service for automating your TikTok activity and boosting your followers, likes, and views."
+  author: rare-ivy
   id: 1718182447
   tags: ["TikTok growth","TokAutomator","TikTok automation","increase followers","social media marketing"]
   categories: ["Social Media Marketing","TikTok Growth","Automation Tools"]

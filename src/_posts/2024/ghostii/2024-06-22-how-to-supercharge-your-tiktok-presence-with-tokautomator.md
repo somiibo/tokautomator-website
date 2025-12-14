@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "How to Supercharge Your TikTok Presence with TokAutomator"
-  excerpt: "Discover how TokAutomator can help you grow your TikTok account by automating your activity and boosting your followers, likes, and views."
-  author: alex
+  description: "Discover how TokAutomator can help you grow your TikTok account by automating your activity and boosting your followers, likes, and views."
+  author: alex-raeburn
   id: 1719132849
   tags: ["TikTok growth","TikTok automation","increase TikTok followers","TokAutomator benefits"]
   categories: ["Social Media Marketing","TikTok Growth","Automation Tools"]

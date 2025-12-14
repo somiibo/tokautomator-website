@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "The Science Behind Automated TikTok Growth: Myths and Realities"
-  excerpt: "Explore the science behind automated TikTok growth, debunk common myths, and learn about the realities and benefits of using TikTok bots to enhance your social media presence."
-  author: alex
+  description: "Explore the science behind automated TikTok growth, debunk common myths, and learn about the realities and benefits of using TikTok bots to enhance your social media presence."
+  author: alex-raeburn
   id: 1721292849
   tags: ["TikTok growth","automated TikTok tools","TikTok bots","social media marketing"]
   categories: ["Social Media Marketing","TikTok Growth","Digital Marketing"]

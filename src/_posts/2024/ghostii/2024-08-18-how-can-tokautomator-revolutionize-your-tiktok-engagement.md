@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "How Can TokAutomator Revolutionize Your TikTok Engagement?"
-  excerpt: "Discover how TokAutomator can revolutionize your TikTok engagement by automating your activity and boosting your followers, likes, and views."
-  author: alex
+  description: "Discover how TokAutomator can revolutionize your TikTok engagement by automating your activity and boosting your followers, likes, and views."
+  author: alex-raeburn
   id: 1724057648
   tags: ["TikTok engagement","TokAutomator","TikTok growth service","automate TikTok activity","increase TikTok followers"]
   categories: ["TikTok Marketing","Social Media Growth","Automation Tools"]

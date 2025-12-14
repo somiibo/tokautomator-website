@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Top TikTok Marketing Trends to Watch Out for This Year"
-  excerpt: "Discover the top TikTok marketing trends to watch out for this year and learn how to leverage them for your business success."
-  author: alex
+  description: "Discover the top TikTok marketing trends to watch out for this year and learn how to leverage them for your business success."
+  author: christina-hill
   id: 1721033649
   tags: ["TikTok marketing trends","micro-influencers","user-generated content","TikTok ads"]
   categories: ["Social Media Marketing","TikTok Marketing","Digital Marketing Trends"]

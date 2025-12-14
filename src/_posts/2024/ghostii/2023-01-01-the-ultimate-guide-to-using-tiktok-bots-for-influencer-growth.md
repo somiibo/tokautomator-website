@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "The Ultimate Guide to Using TikTok Bots for Influencer Growth"
-  excerpt: "Discover the ultimate guide to using TikTok bots for influencer growth, including their benefits, strategies for maximizing efficiency, and ethical considerations."
-  author: alex
+  description: "Discover the ultimate guide to using TikTok bots for influencer growth, including their benefits, strategies for maximizing efficiency, and ethical considerations."
+  author: rare-ivy
   id: 1716779730
   tags: ["business marketing"]
   categories: ["Marketing", "Business"]

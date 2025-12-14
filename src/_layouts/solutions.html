@@ -1,0 +1,153 @@
+---
+### ALL PAGES ###
+layout: themes/[ site.theme.id ]/frontend/core/base
+
+### PAGE CONFIG ###
+# Hero Section
+hero:
+  headline: "All"
+  headline_accent: "solutions"
+  description: "Explore our TikTok growth solutions for every use case"
+
+# Solutions Grid Section
+solutions:
+  superheadline:
+    icon: "grid-2"
+    text: "Solutions"
+  headline: "Choose your"
+  headline_accent: "solution"
+  subheadline: "TikTok growth automation for every need"
+  items: []
+
+# CTA Section
+cta:
+  superheadline:
+    icon: "rocket"
+    text: "Get Started"
+  headline: "Ready to"
+  headline_accent: "grow?"
+  subheadline: "Start your free trial today"
+  primary_button:
+    text: "Start Free"
+    icon: "rocket"
+    href: "https://somiibo.com/download"
+  secondary_button:
+    text: "View Pricing"
+    icon: "tags"
+    href: "/pricing"
+---
+
+<!-- Hero Section -->
+<section>
+  <div class="container">
+    <div class="row justify-content-center text-center">
+      <div class="col-lg-10" data-lazy="@class animation-slide-up">
+        <h1 class="h1 mb-3">
+          {{ page.resolved.hero.headline }} <span class="text-gradient-rainbow">{{ page.resolved.hero.headline_accent }}</span>
+        </h1>
+
+        <p class="fs-5 text-muted mb-0">
+          {{ page.resolved.hero.description }}
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Solutions Grid Section -->
+<section class="pt-0">
+  <div class="container">
+    <div class="text-center mb-5" data-lazy="@class animation-slide-up">
+      {% iftruthy page.resolved.solutions.superheadline.text %}
+        <span class="badge bg-body-tertiary border-gradient-rainbow border-1 text-body p-2 mb-1 fw-semibold small">
+          {% iftruthy page.resolved.solutions.superheadline.icon %}
+            {% uj_icon page.resolved.solutions.superheadline.icon, "me-1" %}
+          {% endiftruthy %}
+          {{ page.resolved.solutions.superheadline.text }}
+        </span>
+      {% endiftruthy %}
+      <h2 class="h2 mb-2">
+        {{ page.resolved.solutions.headline }} <span class="text-accent">{{ page.resolved.solutions.headline_accent }}</span>
+      </h2>
+      {% iftruthy page.resolved.solutions.subheadline %}
+        <p class="fs-5 text-muted">{{ page.resolved.solutions.subheadline }}</p>
+      {% endiftruthy %}
+    </div>
+
+    <div class="row g-4">
+      {% for item in page.resolved.solutions.items %}
+        <div class="col-lg-4 col-md-6" data-lazy="@class animation-slide-up">
+          <a href="{{ item.href }}" class="card h-100 border-0 shadow-sm text-center rounded-3 text-decoration-none card-hover-lift">
+            <div class="card-body p-4">
+              <div class="bg-primary avatar avatar-xl rounded-circle d-inline-flex align-items-center justify-content-center mb-3">
+                {% uj_icon item.icon, "text-light fs-2" %}
+              </div>
+              <h4 class="mb-3 text-body">{{ item.title }}</h4>
+              <p class="text-muted mb-0">{{ item.description }}</p>
+            </div>
+          </a>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<!-- CTA Section -->
+<section>
+  <div class="container">
+    <div class="card border-0 bg-gradient bg-primary text-white rounded-4 p-4 p-md-5 text-center position-relative overflow-hidden" data-lazy="@class animation-slide-up">
+      <!-- Decorative icon - top right -->
+      <div class="position-absolute top-0 end-0 opacity-25" style="font-size:10rem;transform:rotate(15deg)translate(30%,-30%)">
+        {% uj_icon "tiktok", "text-white" %}
+      </div>
+
+      <!-- Decorative icon - bottom left -->
+      <div class="position-absolute bottom-0 start-0 opacity-25" style="font-size:8rem;transform:rotate(-20deg)translate(-30%,30%)">
+        {% uj_icon "robot", "text-white" %}
+      </div>
+
+      <div class="position-relative">
+        {% iftruthy page.resolved.cta.superheadline.text %}
+          <span class="badge bg-white bg-opacity-25 text-light p-2 mb-3 fw-semibold small">
+            {% iftruthy page.resolved.cta.superheadline.icon %}
+              {% uj_icon page.resolved.cta.superheadline.icon, "me-1" %}
+            {% endiftruthy %}
+            {{ page.resolved.cta.superheadline.text }}
+          </span>
+        {% endiftruthy %}
+
+        <h2 class="h3 fw-bold mb-3">
+          {{ page.resolved.cta.headline }}
+          {% iftruthy page.resolved.cta.headline_accent %}
+            {{ page.resolved.cta.headline_accent }}
+          {% endiftruthy %}
+        </h2>
+
+        {% iftruthy page.resolved.cta.subheadline %}
+          <p class="lead mb-4">{{ page.resolved.cta.subheadline }}</p>
+        {% endiftruthy %}
+
+        <div class="d-flex flex-column flex-sm-row gap-3 justify-content-center">
+          {% iftruthy page.resolved.cta.primary_button.href %}
+            <a href="{{ page.resolved.cta.primary_button.href }}" class="btn btn-light btn-lg px-4">
+              {% iftruthy page.resolved.cta.primary_button.icon %}
+                {% uj_icon page.resolved.cta.primary_button.icon, "me-2" %}
+              {% endiftruthy %}
+              {{ page.resolved.cta.primary_button.text }}
+            </a>
+          {% endiftruthy %}
+          {% iftruthy page.resolved.cta.secondary_button.href %}
+            <a href="{{ page.resolved.cta.secondary_button.href }}" class="btn btn-outline-light btn-lg px-4">
+              {% iftruthy page.resolved.cta.secondary_button.icon %}
+                {% uj_icon page.resolved.cta.secondary_button.icon, "me-2" %}
+              {% endiftruthy %}
+              {{ page.resolved.cta.secondary_button.text }}
+            </a>
+          {% endiftruthy %}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ content | uj_content_format }}

@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "How to Maximize Your TikTok Engagement with Somiibo"
-  excerpt: "Discover how to maximize your TikTok engagement with Somiibo, a powerful tool for automating your TikTok activity and boosting your followers, likes, and views."
-  author: alex
+  description: "Discover how to maximize your TikTok engagement with Somiibo, a powerful tool for automating your TikTok activity and boosting your followers, likes, and views."
+  author: christina-hill
   id: 1718096047
   tags: ["TikTok engagement","Somiibo TikTok Bot","automate TikTok activity"]
   categories: ["TikTok Marketing","Social Media Automation","Digital Marketing"]

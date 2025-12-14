@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "How to Use TokAutomator to Enhance Your TikTok Strategy"
-  excerpt: "Learn how to use TokAutomator to enhance your TikTok strategy by automating your activity for increased followers, likes, and views."
-  author: alex
+  description: "Learn how to use TokAutomator to enhance your TikTok strategy by automating your activity for increased followers, likes, and views."
+  author: christina-hill
   id: 1723280048
   tags: ["TikTok growth","TokAutomator","TikTok followers","social media automation","TikTok marketing"]
   categories: ["Social Media Marketing","TikTok Strategies","Digital Marketing"]

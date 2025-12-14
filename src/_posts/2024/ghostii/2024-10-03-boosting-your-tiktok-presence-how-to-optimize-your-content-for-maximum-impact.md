@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Boosting Your TikTok Presence: How to Optimize Your Content for Maximum Impact"
-  excerpt: "Discover effective strategies to optimize your TikTok content for maximum impact and learn how the Somiibo TikTok Bot can enhance your growth and engagement."
-  author: alex
+  description: "Discover effective strategies to optimize your TikTok content for maximum impact and learn how the Somiibo TikTok Bot can enhance your growth and engagement."
+  author: christina-hill
   id: 1728032053
   tags: ["TikTok growth","TikTok optimization","Somiibo TikTok Bot","TikTok marketing"]
   categories: ["Social Media Marketing","TikTok Growth","Content Optimization"]

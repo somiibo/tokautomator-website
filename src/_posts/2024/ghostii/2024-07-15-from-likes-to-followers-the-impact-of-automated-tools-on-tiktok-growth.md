@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "From Likes to Followers: The Impact of Automated Tools on TikTok Growth"
-  excerpt: "Discover how automated tools like the Somiibo TikTok Bot can significantly boost your TikTok growth by increasing followers, likes, and views while maintaining authenticity."
-  author: alex
+  description: "Discover how automated tools like the Somiibo TikTok Bot can significantly boost your TikTok growth by increasing followers, likes, and views while maintaining authenticity."
+  author: christina-hill
   id: 1721120049
   tags: ["TikTok growth","automated tools","Somiibo TikTok Bot","increase followers","TikTok marketing"]
   categories: ["TikTok Marketing","Social Media Growth","Automated Marketing Tools"]

@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Mastering TikTok Growth: A Practical Guide to Using Bots Effectively"
-  excerpt: "Discover effective strategies for using TikTok bots to boost your account growth and engagement while staying within platform guidelines."
-  author: alex
+  description: "Discover effective strategies for using TikTok bots to boost your account growth and engagement while staying within platform guidelines."
+  author: christina-hill
   id: 1750236844
   tags: ["TikTok growth","social media automation","TikTok bots","engagement strategies","social media marketing"]
   categories: ["Social Media Marketing","TikTok Strategies","Digital Growth"]

@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "TikTok Marketing Made Easy: Tips for Leveraging Automation Tools"
-  excerpt: "Discover how to effortlessly boost your TikTok presence using automation tools like Somiibo TikTok Bot to gain more followers, likes, and views."
-  author: alex
+  description: "Discover how to effortlessly boost your TikTok presence using automation tools like Somiibo TikTok Bot to gain more followers, likes, and views."
+  author: alex-raeburn
   id: 1727600052
   tags: ["TikTok marketing","automation tools","Somiibo TikTok Bot","grow TikTok account","social media automation"]
   categories: ["Social Media Marketing","TikTok Tips","Automation Tools"]

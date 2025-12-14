@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "TikTok Marketing Insights: How TokAutomator Can Boost Your Engagement"
-  excerpt: "Discover how TokAutomator can enhance your TikTok marketing strategy by automating key activities to boost your followers, likes, and views."
-  author: alex
+  description: "Discover how TokAutomator can enhance your TikTok marketing strategy by automating key activities to boost your followers, likes, and views."
+  author: christina-hill
   id: 1727513653
   tags: ["TikTok marketing","TokAutomator","social media growth","TikTok engagement","automated TikTok growth"]
   categories: ["Social Media Marketing","TikTok Growth","Digital Marketing Tools"]

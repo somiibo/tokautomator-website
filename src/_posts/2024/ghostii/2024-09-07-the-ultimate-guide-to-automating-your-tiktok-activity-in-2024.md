@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "The Ultimate Guide to Automating Your TikTok Activity in 2024"
-  excerpt: "Discover how to effectively automate your TikTok activity in 2024 using the Somiibo TikTok Bot to grow your followers, likes, and views."
-  author: alex
+  description: "Discover how to effectively automate your TikTok activity in 2024 using the Somiibo TikTok Bot to grow your followers, likes, and views."
+  author: rare-ivy
   id: 1725785654
   tags: ["TikTok automation","Somiibo TikTok Bot","grow TikTok followers","TikTok marketing 2024","increase TikTok engagement"]
   categories: ["Social Media Marketing","TikTok Growth","Digital Marketing"]

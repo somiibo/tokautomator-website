@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Understanding TikTok Growth: How TokAutomator Can Elevate Your Social Media Game"
-  excerpt: "Discover how TokAutomator can elevate your TikTok strategy by automating your activity to gain more followers, likes, and views."
-  author: alex
+  description: "Discover how TokAutomator can elevate your TikTok strategy by automating your activity to gain more followers, likes, and views."
+  author: rare-ivy
   id: 1722761648
   tags: ["TikTok growth","social media automation","increase TikTok followers","TokAutomator features"]
   categories: ["Social Media Marketing","TikTok Growth","Digital Marketing"]

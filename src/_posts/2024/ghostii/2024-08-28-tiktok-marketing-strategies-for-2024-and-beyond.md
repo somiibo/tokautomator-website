@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "TikTok Marketing: Strategies for 2024 and Beyond"
-  excerpt: "Discover effective TikTok marketing strategies for 2024 and beyond to boost your brand's reach and engagement."
-  author: alex
+  description: "Discover effective TikTok marketing strategies for 2024 and beyond to boost your brand's reach and engagement."
+  author: rare-ivy
   id: 1724921649
   tags: ["TikTok marketing","social media strategy","increasing TikTok followers"]
   categories: ["Social Media Marketing","TikTok Strategies","Digital Marketing Trends"]

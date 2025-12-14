@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "How to Maximize Your TikTok Growth with TokAutomator's Unique Features"
-  excerpt: "Discover how TokAutomator's advanced features can exponentially grow your TikTok account by automating your activities to get more followers, likes, and views."
-  author: alex
+  description: "Discover how TokAutomator's advanced features can exponentially grow your TikTok account by automating your activities to get more followers, likes, and views."
+  author: alex-raeburn
   id: 1721552048
   tags: ["TikTok growth","TikTok automation","TokAutomator features","increase TikTok followers","automate TikTok activity"]
   categories: ["TikTok Marketing","Social Media Growth","Automation Tools"]

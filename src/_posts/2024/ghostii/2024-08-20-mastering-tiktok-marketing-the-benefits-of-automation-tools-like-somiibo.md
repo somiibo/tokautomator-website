@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Mastering TikTok Marketing: The Benefits of Automation Tools like Somiibo"
-  excerpt: "Learn how to master TikTok marketing and grow your account effortlessly using automation tools like Somiibo, with practical tips and success stories."
-  author: alex
+  description: "Learn how to master TikTok marketing and grow your account effortlessly using automation tools like Somiibo, with practical tips and success stories."
+  author: christina-hill
   id: 1724230448
   tags: ["TikTok marketing","TikTok automation tools","Somiibo TikTok bot","grow TikTok followers"]
   categories: ["Social Media Marketing","TikTok Growth","Automation Tools"]

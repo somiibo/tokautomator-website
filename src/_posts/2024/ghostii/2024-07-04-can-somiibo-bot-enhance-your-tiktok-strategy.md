@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Can Somiibo Bot Enhance Your TikTok Strategy?"
-  excerpt: "Learn how the Somiibo Bot can revolutionize your TikTok strategy by automating your activities to gain more followers, likes, and views."
-  author: alex
+  description: "Learn how the Somiibo Bot can revolutionize your TikTok strategy by automating your activities to gain more followers, likes, and views."
+  author: christina-hill
   id: 1720169648
   tags: ["TikTok growth","Somiibo Bot","automate TikTok","increase TikTok followers"]
   categories: ["TikTok Marketing","Social Media Automation","Growth Strategies"]

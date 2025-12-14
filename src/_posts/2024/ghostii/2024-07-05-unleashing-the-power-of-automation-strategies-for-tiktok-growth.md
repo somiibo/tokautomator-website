@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Unleashing the Power of Automation: Strategies for TikTok Growth"
-  excerpt: "Discover how to harness the power of automation for TikTok growth with actionable strategies and tips to boost your followers, likes, and views."
-  author: alex
+  description: "Discover how to harness the power of automation for TikTok growth with actionable strategies and tips to boost your followers, likes, and views."
+  author: alex-raeburn
   id: 1720256050
   tags: ["TikTok automation","TikTok growth","Somiibo TikTok Bot","increase TikTok followers","TikTok marketing strategies"]
   categories: ["TikTok Marketing","Social Media Growth","Automation Tools"]

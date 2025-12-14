@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Understanding the Psychology Behind TikTok Engagement"
-  excerpt: "Explore the psychology behind TikTok engagement and discover strategies to enhance your social media presence with insights into user interaction and trending content."
-  author: alex
+  description: "Explore the psychology behind TikTok engagement and discover strategies to enhance your social media presence with insights into user interaction and trending content."
+  author: christina-hill
   id: 1729241654
   tags: ["TikTok engagement","social media psychology","user interaction","TikTok trends","content strategy"]
   categories: ["Social Media Marketing","Digital Marketing","Psychology"]

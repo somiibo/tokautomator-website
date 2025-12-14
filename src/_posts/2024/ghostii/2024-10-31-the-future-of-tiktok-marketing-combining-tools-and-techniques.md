@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "The Future of TikTok Marketing: Combining Tools and Techniques"
-  excerpt: "Discover the future of TikTok marketing by combining innovative tools and techniques to boost your account's growth and engagement."
-  author: alex
+  description: "Discover the future of TikTok marketing by combining innovative tools and techniques to boost your account's growth and engagement."
+  author: christina-hill
   id: 1730451249
   tags: ["TikTok marketing","social media growth","engagement strategies","digital marketing tools"]
   categories: ["Digital Marketing","Social Media","TikTok Strategies"]

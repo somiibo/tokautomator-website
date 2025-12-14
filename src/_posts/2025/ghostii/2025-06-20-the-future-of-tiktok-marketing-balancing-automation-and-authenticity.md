@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "The Future of TikTok Marketing: Balancing Automation and Authenticity"
-  excerpt: "Explore the future of TikTok marketing and learn how to balance automation and authenticity to effectively grow your brand's presence on the platform."
-  author: alex
+  description: "Explore the future of TikTok marketing and learn how to balance automation and authenticity to effectively grow your brand's presence on the platform."
+  author: rare-ivy
   id: 1750496046
   tags: ["TikTok marketing","automation tools","brand authenticity","social media growth"]
   categories: ["Digital Marketing","Social Media","TikTok Strategies"]

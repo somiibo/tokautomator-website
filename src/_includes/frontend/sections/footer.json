@@ -11,6 +11,10 @@
       href: null,
       links: [
         {
+          label: 'Solutions',
+          href: '/solutions',
+        },
+        {
           label: 'About Us',
           href: '/about',
         },
@@ -21,10 +25,6 @@
         {
           label: 'Contact Us',
           href: '/contact',
-        },
-        {
-          label: 'Download',
-          href: '/download',
         },
       ],
     },

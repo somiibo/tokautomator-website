@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Understanding TikTok Algorithms: Strategies for Enhanced Engagement"
-  excerpt: "Discover effective strategies to enhance engagement on TikTok by understanding its algorithm and leveraging analytical insights."
-  author: alex
+  description: "Discover effective strategies to enhance engagement on TikTok by understanding its algorithm and leveraging analytical insights."
+  author: christina-hill
   id: 1738572849
   tags: ["TikTok algorithm","engagement strategies","viral content","TikTok analytics","social media growth"]
   categories: ["Social Media Marketing","Digital Marketing","Content Creation"]

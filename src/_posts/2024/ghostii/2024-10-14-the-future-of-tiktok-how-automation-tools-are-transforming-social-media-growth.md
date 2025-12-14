@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "The Future of TikTok: How Automation Tools Are Transforming Social Media Growth"
-  excerpt: "Discover how automation tools like TokAutomator are transforming TikTok growth strategies, boosting followers, likes, and views efficiently."
-  author: alex
+  description: "Discover how automation tools like TokAutomator are transforming TikTok growth strategies, boosting followers, likes, and views efficiently."
+  author: christina-hill
   id: 1728982455
   tags: ["TikTok automation","social media growth","TikTok followers","automation tools"]
   categories: ["Social Media Marketing","Automation Tools","TikTok Growth"]

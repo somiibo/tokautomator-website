@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "The Future of TikTok Marketing: Trends and Predictions for 2025"
-  excerpt: "Discover the future trends and predictions for TikTok marketing in 2025, including emerging strategies and the role of automation tools."
-  author: alex
+  description: "Discover the future trends and predictions for TikTok marketing in 2025, including emerging strategies and the role of automation tools."
+  author: rare-ivy
   id: 1723712048
   tags: ["TikTok marketing","TikTok trends 2025","influencer collaborations","automation tools","TikTok growth"]
   categories: ["Social Media Marketing","Digital Marketing","TikTok Growth Strategies"]

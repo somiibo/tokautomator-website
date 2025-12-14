@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Why Automated TikTok Tools Are Essential for Your Marketing Strategy in 2024"
-  excerpt: "Discover why automated TikTok tools are crucial for your 2024 marketing strategy and learn how to effectively use them to boost your social media presence."
-  author: alex
+  description: "Discover why automated TikTok tools are crucial for your 2024 marketing strategy and learn how to effectively use them to boost your social media presence."
+  author: rare-ivy
   id: 1718787249
   tags: ["TikTok marketing","TikTok automation","social media strategy","TikTok growth tools","automated social media"]
   categories: ["Social Media Marketing","TikTok Strategy","Digital Marketing"]

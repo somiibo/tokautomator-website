@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Strategies for Maximizing TikTok Growth in 2024 with TokAutomator"
-  excerpt: "Discover effective strategies for maximizing your TikTok growth in 2024 using TokAutomator, a leading TikTok automation tool for boosting followers, likes, and views."
-  author: alex
+  description: "Discover effective strategies for maximizing your TikTok growth in 2024 using TokAutomator, a leading TikTok automation tool for boosting followers, likes, and views."
+  author: christina-hill
   id: 1719305648
   tags: ["TikTok growth","TikTok automation","TokAutomator","increase TikTok followers","TikTok marketing"]
   categories: ["TikTok Marketing","Social Media Growth","Automation Tools"]

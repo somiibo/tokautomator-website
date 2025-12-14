@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "How to Elevate Your TikTok Game with the Power of Automation"
-  excerpt: "Discover how automation tools like Somiibo can revolutionize your TikTok strategy, boosting followers, likes, and views effortlessly."
-  author: alex
+  description: "Discover how automation tools like Somiibo can revolutionize your TikTok strategy, boosting followers, likes, and views effortlessly."
+  author: christina-hill
   id: 1728377654
   tags: ["TikTok automation","Somiibo TikTok Bot","growth service","TikTok marketing","increase followers"]
   categories: ["Social Media Marketing","TikTok Growth","Digital Marketing Tools"]

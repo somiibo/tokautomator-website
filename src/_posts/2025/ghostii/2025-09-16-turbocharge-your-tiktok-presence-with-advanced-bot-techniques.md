@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Turbocharge Your TikTok Presence with Advanced Bot Techniques"
-  excerpt: "Discover how to turbocharge your TikTok presence by leveraging advanced bot techniques to gain more followers, likes, and views efficiently."
-  author: alex
+  description: "Discover how to turbocharge your TikTok presence by leveraging advanced bot techniques to gain more followers, likes, and views efficiently."
+  author: rare-ivy
   id: 1758099245
   tags: ["TikTok growth","automation tools","Somiibo bot","increase followers","TikTok marketing"]
   categories: ["Social Media Marketing","TikTok Strategies","Digital Marketing Automation"]

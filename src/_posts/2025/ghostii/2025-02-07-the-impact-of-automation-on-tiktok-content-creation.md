@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "The Impact of Automation on TikTok Content Creation"
-  excerpt: "Explore the transformative impact of automation on TikTok content creation and discover how to leverage tools for enhanced growth and engagement."
-  author: alex
+  description: "Explore the transformative impact of automation on TikTok content creation and discover how to leverage tools for enhanced growth and engagement."
+  author: alex-raeburn
   id: 1739004845
   tags: ["TikTok automation","content creation","social media marketing","automation tools"]
   categories: ["Social Media Marketing","Content Creation","Digital Marketing"]

@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "The Future of TikTok Marketing: How to Stay Ahead of the Curve"
-  excerpt: "Discover how to stay ahead in TikTok marketing with the latest strategies, trends, and automation tools to boost your account growth."
-  author: alex
+  description: "Discover how to stay ahead in TikTok marketing with the latest strategies, trends, and automation tools to boost your account growth."
+  author: rare-ivy
   id: 1720688049
   tags: ["TikTok marketing","automation tools","social media growth","TikTok trends","digital marketing strategies"]
   categories: ["Social Media Marketing","Digital Marketing","TikTok Growth Strategies"]

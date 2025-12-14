@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Boost Your TikTok Engagement: Tips and Tricks for Maximizing Growth"
-  excerpt: "Discover effective tips and tricks for boosting your TikTok engagement and accelerating your growth with the help of the Somiibo TikTok Bot."
-  author: alex
+  description: "Discover effective tips and tricks for boosting your TikTok engagement and accelerating your growth with the help of the Somiibo TikTok Bot."
+  author: christina-hill
   id: 1723452849
   tags: ["TikTok engagement","Somiibo TikTok Bot","grow TikTok followers","TikTok marketing tips"]
   categories: ["Social Media Marketing","TikTok Growth","Digital Marketing"]

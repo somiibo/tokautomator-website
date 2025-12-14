@@ -5,8 +5,8 @@ layout: blueprint/blog/post
 ### POST ONLY ###
 post:
   title: "Maximize Your TikTok Reach with TokAutomator: A Comprehensive Guide"
-  excerpt: "Learn how to maximize your TikTok reach using TokAutomator, a powerful tool designed to automate your TikTok activity and boost followers, likes, and views."
-  author: alex
+  description: "Learn how to maximize your TikTok reach using TokAutomator, a powerful tool designed to automate your TikTok activity and boost followers, likes, and views."
+  author: christina-hill
   id: 1722588847
   tags: ["TikTok growth","social media automation","TokAutomator","increase TikTok followers"]
   categories: ["Social Media Marketing","TikTok Growth Strategies","Automation Tools"]
