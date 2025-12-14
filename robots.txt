@@ -1,0 +1,45 @@
+User-agent: *
+#
+# @reference
+#
+Disallow: /@reference/
+Noindex: /@reference/
+Disallow: /pages/@reference/
+Noindex: /pages/@reference/
+
+#
+# Admin Pages
+#
+Disallow: /admin/
+Noindex: /admin/
+
+#
+# Test Pages
+#
+Disallow: /test/
+Noindex: /test/
+
+#
+# Protection
+#
+Disallow: /search
+Disallow: /index.html?
+Disallow: /?
+Disallow: /startup?page=
+Disallow: *page=
+Disallow: *?page=
+
+#
+# App/Custom pages
+#
+# ...
+
+#
+# Wayback Machine (Internet Archive)
+#
+User-agent: ia_archiver
+Disallow: /terms
+Disallow: /privacy
+Disallow: /cookies
+
+Sitemap: https://tokautomator.com/sitemap.xml
